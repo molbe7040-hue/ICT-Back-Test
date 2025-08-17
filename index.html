@@ -1,9 +1,4 @@
 <!doctype html>
-<footer id=nik-credit class=nik-credit>
-ساخته‌شده توسط <strong>NIK</strong>
-</footer>
-<meta name=author content=NIK>
-<meta name=creator content=NIK>
 <html lang=en dir=ltr>
 <head>
 <meta charset=UTF-8>
@@ -17,7 +12,7 @@
 <body>
 <div class=wrap>
 <header>
-<h1>دفتر بک‌تست – ICT </h1>
+<h1>دفتر بک‌تست – ICT SDP</h1>
 <div class=toolbar>
 <button class="btn acc" id=addRow><i class="fas fa-plus"></i> ردیف جدید</button>
 <button class=btn id=exportCsv><i class="fas fa-file-csv"></i> خروجی CSV</button>
@@ -147,6 +142,16 @@
 <button class="btn ghost" id=close-comment-modal>&times;</button>
 </div>
 <textarea id=comment-textarea placeholder="تحلیل یا توضیحات خود را اینجا بنویسید..."></textarea>
+<div class=image-upload-section>
+<div class=image-preview-container id=image-preview-container>
+<img id=image-preview src=# alt="Image Preview" style=display:none>
+</div>
+<input type=file id=image-file-input accept=image/*>
+<div class=image-buttons>
+<button class="btn ghost" id=upload-image-btn><i class="fas fa-upload"></i> آپلود عکس</button>
+<button class="btn ghost" id=remove-image-btn style=display:none><i class="fas fa-trash-alt"></i> حذف عکس</button>
+</div>
+</div>
 <div class=modal-footer>
 <button class="btn ghost" id=cancel-comment>لغو</button>
 <button class="btn acc" id=save-comment>ذخیره</button>
@@ -212,6 +217,12 @@
 <button class="btn ghost" id=confirm-cancel>لغو</button>
 <button class="btn acc" id=confirm-ok>تأیید</button>
 </div>
+</div>
+</div>
+<div class=modal-overlay id=image-zoom-modal>
+<div class=modal-content>
+<img id=zoomed-image src=# alt="Zoomed Image">
+<button class="btn ghost" id=image-zoom-close-btn>&times;</button>
 </div>
 </div>
 <script src=script.js></script>
