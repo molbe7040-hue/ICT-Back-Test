@@ -14,6 +14,7 @@
     .btn.acc{background:linear-gradient(180deg,#7c5cff,#5b3eff)}
     .btn.ghost{background:transparent;border-color:#2c3448}
     .btn:disabled{cursor:not-allowed;opacity:0.6;filter:grayscale(50%)}
+	.nik-credit{text-align:center; margin:24px 0; opacity:.8; font-size:13px; border-top:1px solid #283146; padding-top:12px;}
 
     .panel{background:rgba(255,255,255,.03);backdrop-filter:saturate(120%) blur(6px);border:1px solid #283148;border-radius:var(--radius);box-shadow:var(--shadow); margin-bottom: 24px;}
 
@@ -78,9 +79,6 @@
     .actions-cell{display: flex; gap: 4px;}
     .actions-cell .btn{padding: 6px 8px;}
     .actions-cell .btn.has-comment { color: #f6c453; } /* Yellow for commented trades */
-    /* New: Style for image icon */
-    .actions-cell .btn.has-image { color: #87CEEB; } /* Light blue for image */
-
 
     .week-header td { background-color: #1a2235; font-weight: bold; cursor: pointer; }
     .week-header .chevron { transition: transform 0.2s; display: inline-block; }
@@ -93,47 +91,8 @@
     .modal-overlay.visible .modal-content{transform:scale(1)}
     .modal-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
     .modal-header h2{margin:0;font-size:18px;}
-    #comment-textarea { width: 100%; height: 150px; background: #101522; border: 1px solid #283146; color: var(--text); border-radius: 12px; padding: 10px; font-family: inherit; resize: vertical; margin-bottom: 16px; }
+    #comment-textarea { width: 100%; height: 150px; background: #101522; border: 1px solid #283146; color: var(--text); border-radius: 12px; padding: 10px; font-family: inherit; resize: vertical; }
     .modal-footer { margin-top: 16px; display: flex; justify-content: flex-end; gap: 8px; }
-
-    /* New: Image attachment styles within comment modal */
-    .image-upload-section {
-        border: 1px dashed #283146;
-        border-radius: 12px;
-        padding: 10px;
-        text-align: center;
-        margin-bottom: 16px;
-        background: #101522;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 10px;
-    }
-    .image-preview-container {
-        max-width: 100%;
-        max-height: 200px; /* Limit preview height */
-        overflow: hidden;
-        border-radius: 8px;
-        margin-bottom: 10px;
-        display: none; /* Hidden by default, shown when image exists */
-    }
-    .image-preview-container img {
-        width: 100%;
-        height: auto;
-        display: block;
-        cursor: zoom-in; /* Indicate clickability */
-    }
-    .image-buttons {
-        display: flex;
-        gap: 8px;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    /* Style for hidden file input */
-    #image-file-input {
-        display: none;
-    }
-
 
     /* Charts Section */
     .charts-container .panel-header { padding: 12px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; }
@@ -240,52 +199,6 @@
         gap: 6px;
         min-height: 20px; /* To maintain height when no chips */
     }
-
-    /* New: Image Zoom Modal Styles */
-    #image-zoom-modal {
-        background: rgba(0, 0, 0, 0.9); /* Darker background for focus */
-        z-index: 999; /* Higher than other modals */
-    }
-    #image-zoom-modal .modal-content {
-        max-width: 90%; /* Allow larger image display */
-        max-height: 90%;
-        padding: 0; /* No padding around the image */
-        background: transparent; /* Transparent background for content */
-        border: none;
-        box-shadow: none;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        position: relative;
-    }
-    #image-zoom-modal img {
-        max-width: 100%;
-        max-height: 100%;
-        display: block;
-        object-fit: contain; /* Ensure the image fits within the bounds */
-        border-radius: var(--radius); /* Keep rounded corners */
-    }
-    #image-zoom-close-btn {
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        background: rgba(0, 0, 0, 0.5);
-        color: white;
-        border: none;
-        border-radius: 50%;
-        width: 30px;
-        height: 30px;
-        font-size: 20px;
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 1000; /* Ensure button is on top of image */
-    }
-    #image-zoom-close-btn:hover {
-        background: rgba(0, 0, 0, 0.7);
-    }
-
 
     @media (max-width:900px){
       .filters{grid-template-columns:1fr 1fr}
