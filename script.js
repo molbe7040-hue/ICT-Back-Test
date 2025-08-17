@@ -1,1 +1,1195 @@
-function _0x481f(_0x2fcabd,_0x50fc98){const _0x1c4874=_0x1c48();return _0x481f=function(_0x481f2e,_0xad8da1){_0x481f2e=_0x481f2e-0x196;let _0x235382=_0x1c4874[_0x481f2e];return _0x235382;},_0x481f(_0x2fcabd,_0x50fc98);}const _0x5ab52d=_0x481f;(function(_0x2b6b97,_0x5b6b52){const _0x59ff54=_0x481f,_0x383b22=_0x2b6b97();while(!![]){try{const _0x40c718=-parseInt(_0x59ff54(0x222))/0x1*(parseInt(_0x59ff54(0x265))/0x2)+-parseInt(_0x59ff54(0x208))/0x3+-parseInt(_0x59ff54(0x271))/0x4*(-parseInt(_0x59ff54(0x1c3))/0x5)+-parseInt(_0x59ff54(0x2bd))/0x6*(parseInt(_0x59ff54(0x29a))/0x7)+-parseInt(_0x59ff54(0x2cd))/0x8*(-parseInt(_0x59ff54(0x1ce))/0x9)+-parseInt(_0x59ff54(0x2b0))/0xa*(parseInt(_0x59ff54(0x2bf))/0xb)+parseInt(_0x59ff54(0x1b9))/0xc*(parseInt(_0x59ff54(0x1be))/0xd);if(_0x40c718===_0x5b6b52)break;else _0x383b22['push'](_0x383b22['shift']());}catch(_0x931ed9){_0x383b22['push'](_0x383b22['shift']());}}}(_0x1c48,0x75646),document[_0x5ab52d(0x247)](_0x5ab52d(0x2b9),_0x321bf8=>{const _0x4ad09c=_0x5ab52d,_0x3dd5e0=['EURUSD',_0x4ad09c(0x231),_0x4ad09c(0x2a5),_0x4ad09c(0x21f)],_0x1152c6=[_0x4ad09c(0x214),_0x4ad09c(0x2a3),_0x4ad09c(0x2e1),'+OB',_0x4ad09c(0x1a7),_0x4ad09c(0x2fa),_0x4ad09c(0x196),_0x4ad09c(0x280),'BB',_0x4ad09c(0x292),_0x4ad09c(0x1ec),_0x4ad09c(0x1ed),_0x4ad09c(0x1d1),_0x4ad09c(0x283),'Low\x20Asia',_0x4ad09c(0x2fc),'ITL',_0x4ad09c(0x2d1),'FS','TS',_0x4ad09c(0x25d),_0x4ad09c(0x20b),_0x4ad09c(0x1c8),_0x4ad09c(0x28f),'Rejection\x20Block',_0x4ad09c(0x1b4)],_0x51303b=[{'id':0x1,'date':_0x4ad09c(0x19a),'dow':_0x4ad09c(0x210),'killzone':'LDN','direction':'Long','sdp':_0x4ad09c(0x2b5),'win':!![],'rf':![],'sl':![],'rr':2.45,'time':'04:15','comment':'','symbol':_0x4ad09c(0x2a9),'setupTypes':['FVG',_0x4ad09c(0x1ec)],'image':null},{'id':0x2,'date':_0x4ad09c(0x2a4),'dow':_0x4ad09c(0x25e),'killzone':'LDN','direction':_0x4ad09c(0x279),'sdp':'','win':![],'rf':!![],'sl':![],'rr':null,'time':_0x4ad09c(0x25c),'comment':_0x4ad09c(0x1a2),'symbol':'GBPUSD','setupTypes':['CISD'],'image':null},{'id':0x3,'date':_0x4ad09c(0x1f4),'dow':'Wed','killzone':'NY','direction':_0x4ad09c(0x266),'sdp':_0x4ad09c(0x2b5),'win':!![],'rf':![],'sl':![],'rr':4.24,'time':_0x4ad09c(0x250),'comment':'','symbol':_0x4ad09c(0x2a5),'setupTypes':[_0x4ad09c(0x2e1),_0x4ad09c(0x260)],'image':null},{'id':0x4,'date':_0x4ad09c(0x2ed),'dow':_0x4ad09c(0x288),'killzone':'NY','direction':'Short','sdp':_0x4ad09c(0x278),'win':![],'rf':!![],'sl':![],'rr':null,'time':_0x4ad09c(0x2ca),'comment':'','symbol':_0x4ad09c(0x2a9),'setupTypes':[_0x4ad09c(0x1d1)],'image':null},{'id':0x5,'date':'2025-04-15','dow':'Mon','killzone':'NY','direction':'Long','sdp':_0x4ad09c(0x2b5),'win':!![],'rf':![],'sl':![],'rr':3.22,'time':_0x4ad09c(0x25b),'comment':'Perfect\x20setup.','symbol':'GBPUSD','setupTypes':[_0x4ad09c(0x2fc),'Unicorn'],'image':null},{'id':0x6,'date':'2025-04-16','dow':_0x4ad09c(0x210),'killzone':_0x4ad09c(0x2f0),'direction':_0x4ad09c(0x279),'sdp':'','win':![],'rf':!![],'sl':![],'rr':null,'time':_0x4ad09c(0x1c1),'comment':'','symbol':'XAUUSD','setupTypes':['BPR'],'image':null},{'id':0x7,'date':'2025-04-16','dow':_0x4ad09c(0x210),'killzone':'NY','direction':_0x4ad09c(0x266),'sdp':_0x4ad09c(0x278),'win':!![],'rf':![],'sl':![],'rr':5.92,'time':_0x4ad09c(0x236),'comment':'','symbol':'BTCUSD','setupTypes':[_0x4ad09c(0x283)],'image':null},{'id':0x8,'date':_0x4ad09c(0x296),'dow':_0x4ad09c(0x210),'killzone':_0x4ad09c(0x197),'direction':'Short','sdp':'','win':![],'rf':!![],'sl':![],'rr':null,'time':_0x4ad09c(0x1bd),'comment':'','symbol':_0x4ad09c(0x2a9),'setupTypes':[_0x4ad09c(0x25d)],'image':null},{'id':0x9,'date':_0x4ad09c(0x1b3),'dow':_0x4ad09c(0x210),'killzone':_0x4ad09c(0x197),'direction':_0x4ad09c(0x266),'sdp':'','win':!![],'rf':![],'sl':![],'rr':null,'time':_0x4ad09c(0x1eb),'comment':'','symbol':_0x4ad09c(0x231),'setupTypes':[_0x4ad09c(0x28f)],'image':null},{'id':0xa,'date':'2025-04-24','dow':_0x4ad09c(0x25e),'killzone':'LDN','direction':_0x4ad09c(0x266),'sdp':'2\x20/\x202.5','win':!![],'rf':![],'sl':![],'rr':2.65,'time':'03:15','comment':'','symbol':'XAUUSD','setupTypes':[_0x4ad09c(0x1b4)],'image':null}],_0x49a71f=_0x4ad09c(0x2f7),_0x4d719d=_0x4ad09c(0x223),_0x5e1f05=_0x4ad09c(0x2b3),_0x480aeb=_0x4eaec4=>document[_0x4ad09c(0x2fe)](_0x4eaec4),_0x24aad9=_0x480aeb('#table-body'),_0x5769dd={},_0x523a37=_0x480aeb('#comment-modal'),_0x2cd25a=_0x480aeb(_0x4ad09c(0x24c)),_0x174f93=_0x480aeb(_0x4ad09c(0x1ad)),_0x9dba87=_0x480aeb(_0x4ad09c(0x281)),_0x281002=_0x480aeb(_0x4ad09c(0x1cf)),_0x4142f3=_0x480aeb(_0x4ad09c(0x1ea)),_0x345eb1=_0x480aeb('#comment-textarea'),_0xb77692=_0x480aeb(_0x4ad09c(0x293)),_0x437acd=_0x480aeb(_0x4ad09c(0x2d9)),_0x193ccf=_0x480aeb(_0x4ad09c(0x2d6)),_0xc4a933=_0x480aeb(_0x4ad09c(0x23c)),_0x238ed7=_0x480aeb(_0x4ad09c(0x24a)),_0x2d70bf=_0x480aeb(_0x4ad09c(0x294)),_0x36b2ab=_0x480aeb(_0x4ad09c(0x2d5)),_0x49874d=_0x480aeb('#f-setup-type-chips'),_0x2a4d2d=_0x480aeb('#f-setup-type-input'),_0x1aef22=_0x480aeb(_0x4ad09c(0x24d)),_0x200aa0=_0x480aeb('#image-preview'),_0x3912e0=_0x480aeb(_0x4ad09c(0x217)),_0xa1b900=_0x480aeb(_0x4ad09c(0x2d2)),_0xa54d5c=_0x480aeb(_0x4ad09c(0x2da)),_0xf84204=_0x480aeb(_0x4ad09c(0x19c)),_0x4ef5b7=_0x480aeb('#image-zoom-close-btn'),_0x328b0e=_0x480aeb(_0x4ad09c(0x19d)),_0x2eea10=_0x480aeb(_0x4ad09c(0x2aa)),_0x2f2b35=_0x480aeb(_0x4ad09c(0x2a6)),_0x5be8cf=_0x480aeb('#confirm-cancel'),_0x38a6c9=_0x480aeb('#close-confirm-modal');let _0x2d25dc;const _0x5bd3f8={'rows':_0x53d5d7()||_0x51303b,'sortKey':'id','sortDir':_0x4ad09c(0x2f9),'groupByWeek':![],'collapsedWeeks':new Set(),'editingCommentId':null,'customSymbols':_0x256a88(),'availableSetupTypes':_0x86ccfa()||_0x1152c6,'editingSetupTypeId':null,'filterSetupTypes':[]};function _0x53d5d7(){const _0x51b63e=_0x4ad09c;try{const _0x4fdd03=JSON[_0x51b63e(0x2ba)](localStorage[_0x51b63e(0x199)](_0x49a71f));if(_0x4fdd03)return _0x4fdd03[_0x51b63e(0x1d2)](_0x405354=>({..._0x405354,'image':_0x405354[_0x51b63e(0x261)]||null}));return null;}catch(_0x390507){return console[_0x51b63e(0x20f)](_0x51b63e(0x2ec),_0x390507),null;}}function _0x256a88(){const _0x2ed7d7=_0x4ad09c;try{return JSON[_0x2ed7d7(0x2ba)](localStorage[_0x2ed7d7(0x199)](_0x4d719d))||[];}catch(_0x33c3da){return console['error'](_0x2ed7d7(0x257),_0x33c3da),[];}}function _0x86ccfa(){const _0x42a31c=_0x4ad09c;try{return JSON['parse'](localStorage[_0x42a31c(0x199)](_0x5e1f05))||[];}catch(_0x5e3d93){return console[_0x42a31c(0x20f)](_0x42a31c(0x270),_0x5e3d93),[];}}function _0x2cc132(){const _0x2e3c9e=_0x4ad09c,_0x107ac8=new Set(_0x5bd3f8[_0x2e3c9e(0x216)]['map'](_0x565fd2=>_0x565fd2[_0x2e3c9e(0x29e)])[_0x2e3c9e(0x225)](_0x1a7d37=>_0x1a7d37));_0x5bd3f8['customSymbols']=_0x5bd3f8[_0x2e3c9e(0x1f5)][_0x2e3c9e(0x225)](_0x221fe2=>_0x3dd5e0[_0x2e3c9e(0x1ee)](_0x221fe2)||_0x107ac8[_0x2e3c9e(0x2ac)](_0x221fe2)),_0x5bd3f8['customSymbols'][_0x2e3c9e(0x2dd)]();}function _0x5df59e(){const _0x2092f5=_0x4ad09c,_0x123349=new Set(_0x5bd3f8[_0x2092f5(0x216)][_0x2092f5(0x1d2)](_0x42e79d=>_0x42e79d[_0x2092f5(0x29e)])[_0x2092f5(0x225)](_0x1971bb=>_0x1971bb)),_0x41f6fe=new Set([..._0x3dd5e0,..._0x5bd3f8[_0x2092f5(0x1f5)],..._0x123349]);return Array['from'](_0x41f6fe)[_0x2092f5(0x2dd)]();}function _0x4d9c21(){const _0xdd7ce=_0x4ad09c,_0x3306dc=new Set();_0x5bd3f8[_0xdd7ce(0x216)][_0xdd7ce(0x2c9)](_0x358d5d=>{const _0xfe4906=_0xdd7ce;Array[_0xfe4906(0x1d6)](_0x358d5d[_0xfe4906(0x1c9)])&&_0x358d5d['setupTypes']['forEach'](_0x88b40f=>_0x3306dc[_0xfe4906(0x248)](_0x88b40f));});const _0x3cfd22=new Set([..._0x1152c6,..._0x5bd3f8['availableSetupTypes'],..._0x3306dc]);return Array[_0xdd7ce(0x29f)](_0x3cfd22)[_0xdd7ce(0x2dd)]();}function _0x2714d2(){const _0x5459f3=_0x4ad09c;_0x2cc132(),localStorage[_0x5459f3(0x2f5)](_0x49a71f,JSON[_0x5459f3(0x2a7)](_0x5bd3f8['rows'])),localStorage[_0x5459f3(0x2f5)](_0x4d719d,JSON['stringify'](_0x5bd3f8[_0x5459f3(0x1f5)])),localStorage[_0x5459f3(0x2f5)](_0x5e1f05,JSON[_0x5459f3(0x2a7)](_0x5bd3f8['availableSetupTypes']));const _0x105435=_0x480aeb(_0x5459f3(0x284));_0x105435[_0x5459f3(0x242)]=_0x5459f3(0x2c1),_0x105435[_0x5459f3(0x1f6)][_0x5459f3(0x248)](_0x5459f3(0x277)),setTimeout(()=>{const _0x319e24=_0x5459f3;_0x105435['textContent']=_0x319e24(0x259),_0x105435[_0x319e24(0x1f6)][_0x319e24(0x2ee)](_0x319e24(0x277));},0x3e8),console['log'](_0x5459f3(0x1ff));}function _0x31ba0f(_0xab545c){const _0x4058ef=_0x4ad09c,_0x559ac0=new Date(_0xab545c['getTime']());_0x559ac0[_0x4058ef(0x251)](0x0,0x0,0x0,0x0),_0x559ac0['setDate'](_0x559ac0['getDate']()+0x3-(_0x559ac0[_0x4058ef(0x26a)]()+0x6)%0x7);const _0x31723f=new Date(_0x559ac0['getFullYear'](),0x0,0x4);return _0x559ac0[_0x4058ef(0x2b7)]()+'-W'+String(0x1+Math['round'](((_0x559ac0[_0x4058ef(0x2cb)]()-_0x31723f['getTime']())/0x5265c00-0x3+(_0x31723f[_0x4058ef(0x26a)]()+0x6)%0x7)/0x7))[_0x4058ef(0x227)](0x2,'0');}function _0x3a922c(_0x15b557){const _0x4aaa35=_0x4ad09c,[_0x3b4af4,_0x259578]=_0x15b557[_0x4aaa35(0x25a)]('-W')[_0x4aaa35(0x1d2)](Number),_0x120453=new Date(_0x3b4af4,0x0,0x1+(_0x259578-0x1)*0x7),_0x148ff0=_0x120453['getDay'](),_0x44f6ff=_0x120453;if(_0x148ff0<=0x4)_0x44f6ff[_0x4aaa35(0x20d)](_0x120453[_0x4aaa35(0x209)]()-_0x120453['getDay']()+0x1);else _0x44f6ff['setDate'](_0x120453[_0x4aaa35(0x209)]()+0x8-_0x120453['getDay']());const _0x2fe9b0=new Date(_0x44f6ff);return _0x2fe9b0[_0x4aaa35(0x20d)](_0x2fe9b0[_0x4aaa35(0x209)]()+0x6),_0x2e3594(_0x44f6ff[_0x4aaa35(0x1ac)]()[_0x4aaa35(0x2e4)](0x0,0xa))+_0x4aaa35(0x234)+_0x2e3594(_0x2fe9b0[_0x4aaa35(0x1ac)]()['slice'](0x0,0xa));}function _0x2e3594(_0x26e161){const _0xafd784=_0x4ad09c;if(!_0x26e161)return'';const _0x2b9f55=new Date(_0x26e161+_0xafd784(0x1e7));return _0x2b9f55['toLocaleDateString'](_0xafd784(0x229));}const _0x470900=_0x325742=>{const _0x4a0a26=_0x4ad09c;if(_0x325742==='LDN')return _0x4a0a26(0x2a2);if(_0x325742==='NY')return _0x4a0a26(0x302);if(_0x325742==='LDN\x20Close')return'k-ldn-close';if(_0x325742===_0x4a0a26(0x237))return _0x4a0a26(0x272);if(_0x325742===_0x4a0a26(0x19f))return _0x4a0a26(0x268);return'';},_0x23fb40=_0x1c93fc=>_0x1c93fc===_0x4ad09c(0x266)?_0x4ad09c(0x1b0):'dir-short';function _0x59042c(_0x487d3b,_0xe89d36=![]){const _0x13120e=_0x4ad09c,_0x1663f0=_0xe89d36?_0x13120e(0x275):'',_0x5060f1=_0x487d3b[_0x13120e(0x254)]?_0x13120e(0x1db):'',_0x1d94f8=_0x487d3b[_0x13120e(0x261)]?_0x13120e(0x232):'',_0x153185=Array['isArray'](_0x487d3b[_0x13120e(0x1c9)])?_0x487d3b[_0x13120e(0x1c9)][_0x13120e(0x1d2)](_0xc351e2=>_0x13120e(0x204)+_0xc351e2+_0x13120e(0x255))[_0x13120e(0x269)](''):'';return'<tr\x20class=\x22fade-in\x20trade-row\x22\x20data-id=\x22'+_0x487d3b['id']+'\x22\x20'+_0x1663f0+_0x13120e(0x26f)+_0x487d3b['id']+_0x13120e(0x253)+(_0x487d3b[_0x13120e(0x29e)]||'')+_0x13120e(0x220)+_0x153185+_0x13120e(0x2ab)+_0x2e3594(_0x487d3b[_0x13120e(0x2a1)])+_0x13120e(0x1a0)+_0x487d3b['dow']+_0x13120e(0x2cf)+_0x470900(_0x487d3b['killzone'])+'\x22>'+_0x487d3b['killzone']+_0x13120e(0x2b4)+_0x23fb40(_0x487d3b[_0x13120e(0x198)])+'\x22>'+_0x487d3b[_0x13120e(0x198)]+'</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22editable\x22\x20data-field=\x22sdp\x22>'+(_0x487d3b[_0x13120e(0x1f3)]?_0x13120e(0x205)+_0x487d3b[_0x13120e(0x1f3)]+'</span>':'')+_0x13120e(0x206)+(_0x487d3b[_0x13120e(0x2a8)]?_0x13120e(0x1a4):'')+_0x13120e(0x21a)+(_0x487d3b['rf']?_0x13120e(0x1a4):'')+_0x13120e(0x230)+(_0x487d3b['sl']?'checked':'')+_0x13120e(0x1b1)+(_0x487d3b['rr']??'')+_0x13120e(0x289)+(_0x487d3b['time']||'')+_0x13120e(0x1fd)+_0x5060f1+'\x20'+_0x1d94f8+_0x13120e(0x1ae)+(_0x487d3b['image']?_0x13120e(0x273):'')+'</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22btn\x22\x20data-action=\x22dup\x22\x20title=\x22کپی\x22><i\x20class=\x22fas\x20fa-copy\x22></i></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22btn\x22\x20data-action=\x22del\x22\x20title=\x22حذف\x22><i\x20class=\x22fas\x20fa-trash-alt\x22></i></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20</tr>';}function _0x53313a(){const _0x5e1e13=_0x4ad09c,_0xe55661=_0x480aeb('#search')[_0x5e1e13(0x22b)][_0x5e1e13(0x2c4)]()[_0x5e1e13(0x1fc)](),_0x4e90f4=_0x480aeb(_0x5e1e13(0x246))[_0x5e1e13(0x22b)],_0x413ec2=_0x480aeb(_0x5e1e13(0x2b2))['value'],_0x1fc50d=_0x480aeb(_0x5e1e13(0x2e8))[_0x5e1e13(0x22b)],_0xf6bfcd=_0x480aeb(_0x5e1e13(0x28c))[_0x5e1e13(0x22b)],_0x2631e0=_0x5bd3f8[_0x5e1e13(0x2fb)];let _0x38a1d9=_0x5bd3f8[_0x5e1e13(0x216)][_0x5e1e13(0x225)](_0x10a4f1=>{const _0x4121ce=_0x5e1e13,_0xc4bbd7=!_0xe55661||[_0x10a4f1[_0x4121ce(0x1e9)],_0x10a4f1['killzone'],_0x10a4f1['direction'],_0x10a4f1[_0x4121ce(0x1f3)],_0x2e3594(_0x10a4f1[_0x4121ce(0x2a1)]),_0x10a4f1[_0x4121ce(0x23f)],String(_0x10a4f1['rr']),_0x10a4f1[_0x4121ce(0x29e)],(_0x10a4f1[_0x4121ce(0x1c9)]||[])[_0x4121ce(0x269)]('\x20')]['join']('\x20')['toLowerCase']()[_0x4121ce(0x1ee)](_0xe55661),_0x461798=!_0x4e90f4||_0x10a4f1[_0x4121ce(0x1e9)]===_0x4e90f4,_0x414e2e=!_0x413ec2||_0x10a4f1[_0x4121ce(0x20a)]===_0x413ec2,_0x1bc25e=!_0xf6bfcd||_0x10a4f1[_0x4121ce(0x29e)]===_0xf6bfcd,_0x12c70d=_0x1fc50d==='win'&&_0x10a4f1[_0x4121ce(0x2a8)]||_0x1fc50d==='rf'&&_0x10a4f1['rf']||_0x1fc50d==='sl'&&_0x10a4f1['sl']||_0x1fc50d==='',_0x17fcf4=_0x2631e0[_0x4121ce(0x262)]===0x0||_0x2631e0[_0x4121ce(0x245)](_0x37c949=>(_0x10a4f1['setupTypes']||[])[_0x4121ce(0x1ee)](_0x37c949));return _0xc4bbd7&&_0x461798&&_0x414e2e&&_0x12c70d&&_0x1bc25e&&_0x17fcf4;});_0x38a1d9['sort']((_0x465f95,_0xaf09fe)=>{const _0x1146a2=_0x5e1e13,_0x5758d6=_0x5bd3f8['sortKey'],_0x4c054e=_0x5bd3f8['sortDir']===_0x1146a2(0x2f9)?0x1:-0x1,_0x2677a0=_0x465f95[_0x5758d6]??'',_0x183110=_0xaf09fe[_0x5758d6]??'';return(_0x2677a0>_0x183110?0x1:_0x2677a0<_0x183110?-0x1:0x0)*_0x4c054e;});if(_0x5bd3f8[_0x5e1e13(0x1e2)]){const _0x29a7eb=_0x38a1d9[_0x5e1e13(0x21e)]((_0x381ae8,_0x264086)=>{const _0x1f94d9=_0x5e1e13,_0x5c138e=_0x31ba0f(new Date(_0x264086['date']));if(!_0x381ae8[_0x5c138e])_0x381ae8[_0x5c138e]=[];return _0x381ae8[_0x5c138e][_0x1f94d9(0x243)](_0x264086),_0x381ae8;},{});let _0x350546='';const _0x5754cc=Object[_0x5e1e13(0x240)](_0x29a7eb)[_0x5e1e13(0x2dd)]()['reverse']();for(const _0x546edd of _0x5754cc){const _0x3ed70a=_0x29a7eb[_0x546edd],_0x3e6ccc=_0x22478d(_0x3ed70a),_0xbc8b3f=_0x5bd3f8[_0x5e1e13(0x25f)][_0x5e1e13(0x2ac)](_0x546edd);_0x350546+=_0x5e1e13(0x1dd)+(_0xbc8b3f?'collapsed':'')+'\x22\x20data-week-id=\x22'+_0x546edd+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20colspan=\x2214\x22>\x20<!--\x20Updated\x20colspan\x20to\x2014\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:flex;\x20justify-content:\x20space-between;\x20align-items:\x20center;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fas\x20fa-chevron-down\x20chevron\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>هفته\x20'+_0x546edd[_0x5e1e13(0x25a)]('-W')[0x1]+_0x5e1e13(0x1a1)+_0x3a922c(_0x546edd)+_0x5e1e13(0x1e8)+_0x3e6ccc[_0x5e1e13(0x1b6)]+_0x5e1e13(0x20e)+_0x3e6ccc[_0x5e1e13(0x224)]+_0x5e1e13(0x1df)+_0x3e6ccc[_0x5e1e13(0x26e)]+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x3ed70a[_0x5e1e13(0x1d2)](_0x436ccd=>_0x59042c(_0x436ccd,_0xbc8b3f))[_0x5e1e13(0x269)]('');}_0x24aad9[_0x5e1e13(0x1f2)]=_0x350546;}else _0x24aad9[_0x5e1e13(0x1f2)]=_0x38a1d9[_0x5e1e13(0x1d2)](_0x4f70fb=>_0x59042c(_0x4f70fb,![]))[_0x5e1e13(0x269)]('');_0x4ae3dd(_0x38a1d9),_0x51e581(),_0x1ffbeb(_0x38a1d9);}function _0x22478d(_0x2ffc5b){const _0xdb8d3d=_0x4ad09c,_0x2bde01=_0x2ffc5b[_0xdb8d3d(0x262)];if(_0x2bde01===0x0)return{'winPercent':_0xdb8d3d(0x1ca),'rrSum':'0.00','total':0x0};const _0x238f1f=_0x2ffc5b[_0xdb8d3d(0x225)](_0x37de78=>_0x37de78[_0xdb8d3d(0x2a8)])[_0xdb8d3d(0x262)],_0x3effee=_0x2ffc5b[_0xdb8d3d(0x21e)]((_0x586e9e,_0x217a40)=>_0x217a40[_0xdb8d3d(0x2a8)]?_0x586e9e+(Number(_0x217a40['rr'])||0x0):_0x586e9e,0x0);return{'winPercent':(_0x238f1f/_0x2bde01*0x64)[_0xdb8d3d(0x28b)](0x1),'rrSum':_0x3effee[_0xdb8d3d(0x28b)](0x2),'total':_0x2bde01};}function _0x4ae3dd(_0x1a3e84){const _0x215936=_0x4ad09c,_0x138665=_0x1a3e84[_0x215936(0x262)];if(_0x138665===0x0){_0x480aeb(_0x215936(0x1d9))['innerHTML']=_0x215936(0x2f6);return;}const _0x56ac02=_0x1a3e84[_0x215936(0x225)](_0x368dce=>_0x368dce[_0x215936(0x2a8)])[_0x215936(0x262)],_0x454e0a=_0x1a3e84[_0x215936(0x225)](_0x533f3c=>_0x533f3c['rf'])[_0x215936(0x262)],_0x2815ee=_0x1a3e84[_0x215936(0x225)](_0x114fc2=>_0x114fc2['sl'])[_0x215936(0x262)],_0x21d347=_0x1a3e84['reduce']((_0x817908,_0x2e9e31)=>_0x2e9e31['win']?_0x817908+(Number(_0x2e9e31['rr'])||0x0):_0x817908,0x0),_0x3b0761=_0x1a3e84[_0x215936(0x1d2)](_0x2529ff=>new Date(_0x2529ff[_0x215936(0x2a1)]))[_0x215936(0x225)](_0x17e195=>!isNaN(_0x17e195));let _0x15ce75=0x0;if(_0x3b0761[_0x215936(0x262)]>0x0){const _0x14c5a4=new Date(Math[_0x215936(0x1e1)]['apply'](null,_0x3b0761)),_0x560886=new Date(Math[_0x215936(0x1fa)]['apply'](null,_0x3b0761));_0x15ce75=Math[_0x215936(0x29d)]((_0x560886-_0x14c5a4)/0x5265c00)+0x1;}_0x480aeb(_0x215936(0x1d9))[_0x215936(0x1f2)]=_0x215936(0x2d3)+_0x15ce75+'</strong>\x20days</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>Win\x20%:\x20<strong\x20class=\x22num\x22>'+(_0x56ac02/_0x138665*0x64)['toFixed'](0x1)+'</strong></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>R‑F\x20%:\x20<strong\x20class=\x22num\x22>'+(_0x454e0a/_0x138665*0x64)[_0x215936(0x28b)](0x1)+_0x215936(0x1f1)+(_0x2815ee/_0x138665*0x64)[_0x215936(0x28b)](0x1)+_0x215936(0x1d4)+_0x21d347[_0x215936(0x28b)](0x2)+_0x215936(0x301)+_0x1a3e84['length']+_0x215936(0x200);}function _0x51e581(){const _0x42c90e=_0x4ad09c;document[_0x42c90e(0x201)]('#grid\x20thead\x20th')[_0x42c90e(0x2c9)](_0x47db22=>_0x47db22[_0x42c90e(0x1f6)][_0x42c90e(0x2ee)](_0x42c90e(0x2b1),_0x42c90e(0x300)));const _0x226817=document[_0x42c90e(0x2fe)](_0x42c90e(0x2af)+_0x5bd3f8[_0x42c90e(0x20c)]+'\x22]');if(_0x226817)_0x226817[_0x42c90e(0x1f6)][_0x42c90e(0x248)](_0x5bd3f8['sortDir']===_0x42c90e(0x2f9)?_0x42c90e(0x2b1):'sort-desc');}const _0x63fa8a={'dow':[_0x4ad09c(0x21c),_0x4ad09c(0x210),_0x4ad09c(0x25e),'Thu',_0x4ad09c(0x288)],'killzone':[_0x4ad09c(0x2f0),'NY',_0x4ad09c(0x197),_0x4ad09c(0x237),_0x4ad09c(0x19f)],'direction':[_0x4ad09c(0x266),'Short']};function _0x41d47f(_0xa44ff6){const _0x5105eb=_0x4ad09c,_0x1b4d0c=_0xa44ff6['closest']('tr'),_0x455dee=+_0x1b4d0c[_0x5105eb(0x233)]['id'],_0x2ef1e6=_0x5bd3f8[_0x5105eb(0x216)][_0x5105eb(0x249)](_0x573a04=>_0x573a04['id']===_0x455dee),_0x397349=_0xa44ff6[_0x5105eb(0x233)][_0x5105eb(0x218)];if(!_0x397349||_0xa44ff6[_0x5105eb(0x2fe)](_0x5105eb(0x276)))return;const _0x29d3a4=_0x11e129=>{const _0x28db78=_0x5105eb;if(_0x11e129){const _0x4e3c2c=_0x106be3[_0x28db78(0x22b)];if(_0x397349===_0x28db78(0x2a1)){_0x2ef1e6[_0x28db78(0x2a1)]=_0x4e3c2c||_0x2ef1e6['date'];if(_0x2ef1e6[_0x28db78(0x2a1)]){const _0x4bcdf2=new Date(_0x2ef1e6[_0x28db78(0x2a1)]+'T00:00:00');_0x2ef1e6[_0x28db78(0x1e9)]=_0x4bcdf2[_0x28db78(0x22d)](_0x28db78(0x2f2),{'weekday':_0x28db78(0x19b)});}}else{if(_0x397349==='rr')_0x2ef1e6['rr']=_0x4e3c2c?Number(_0x4e3c2c):null;else{if(_0x397349===_0x28db78(0x29e))_0x2ef1e6[_0x397349]=_0x4e3c2c['toUpperCase']()[_0x28db78(0x2c4)](),!_0x3dd5e0[_0x28db78(0x1ee)](_0x2ef1e6[_0x397349])&&!_0x5bd3f8[_0x28db78(0x1f5)][_0x28db78(0x1ee)](_0x2ef1e6[_0x397349])&&(_0x5bd3f8['customSymbols'][_0x28db78(0x243)](_0x2ef1e6[_0x397349]),_0x5bd3f8[_0x28db78(0x1f5)][_0x28db78(0x2dd)]());else{if(_0x397349===_0x28db78(0x1c9)){}else _0x2ef1e6[_0x397349]=_0x4e3c2c;}}}_0x2714d2(),_0x53313a();}else _0x53313a();};let _0x106be3;if(_0x397349==='date')_0x106be3=document[_0x5105eb(0x1f9)](_0x5105eb(0x2b6)),_0x106be3[_0x5105eb(0x1d8)]=_0x5105eb(0x2a1),_0x106be3[_0x5105eb(0x22b)]=_0x2ef1e6[_0x5105eb(0x2a1)];else{if(_0x397349==='rr')_0x106be3=document[_0x5105eb(0x1f9)]('input'),_0x106be3[_0x5105eb(0x1d8)]=_0x5105eb(0x1ba),_0x106be3['step']=_0x5105eb(0x2d8),_0x106be3['value']=_0x2ef1e6['rr']??'';else{if(_0x397349===_0x5105eb(0x23f))_0x106be3=document[_0x5105eb(0x1f9)](_0x5105eb(0x2b6)),_0x106be3[_0x5105eb(0x1d8)]=_0x5105eb(0x23f),_0x106be3[_0x5105eb(0x22b)]=_0x2ef1e6[_0x5105eb(0x23f)]||'';else{if(_0x397349===_0x5105eb(0x1f3))_0x106be3=document[_0x5105eb(0x1f9)]('input'),_0x106be3[_0x5105eb(0x1d8)]=_0x5105eb(0x1c7),_0x106be3[_0x5105eb(0x213)]=_0x5105eb(0x1fe),_0x106be3[_0x5105eb(0x22b)]=_0x2ef1e6[_0x5105eb(0x1f3)]||'';else{if(_0x397349===_0x5105eb(0x29e))_0x106be3=document[_0x5105eb(0x1f9)]('input'),_0x106be3[_0x5105eb(0x1d8)]=_0x5105eb(0x1c7),_0x106be3[_0x5105eb(0x22b)]=_0x2ef1e6[_0x5105eb(0x29e)]||'',_0x106be3[_0x5105eb(0x213)]=_0x5105eb(0x1f8);else{if(_0x397349===_0x5105eb(0x1c9)){_0x5bd3f8[_0x5105eb(0x1cd)]=_0x455dee,_0x1d64c0(_0x2ef1e6[_0x5105eb(0x1c9)]||[]);return;}else{if(_0x63fa8a[_0x397349])_0x106be3=document[_0x5105eb(0x1f9)](_0x5105eb(0x2fd)),_0x63fa8a[_0x397349]['forEach'](_0x5187a7=>{const _0x5df594=_0x5105eb,_0x587ced=document[_0x5df594(0x1f9)](_0x5df594(0x28a));_0x587ced['value']=_0x5187a7,_0x587ced[_0x5df594(0x242)]=_0x5187a7;if(_0x5187a7===_0x2ef1e6[_0x397349])_0x587ced[_0x5df594(0x291)]=!![];_0x106be3[_0x5df594(0x264)](_0x587ced);});else return;}}}}}}_0x106be3['className']=_0x5105eb(0x2e5),_0xa44ff6[_0x5105eb(0x1f2)]='',_0xa44ff6[_0x5105eb(0x264)](_0x106be3),_0x106be3[_0x5105eb(0x22a)](),_0x106be3[_0x5105eb(0x2fd)]?.(),_0x106be3[_0x5105eb(0x247)](_0x5105eb(0x23b),_0x137ab6=>{const _0x106e9c=_0x5105eb;if(_0x137ab6[_0x106e9c(0x2ea)]==='Enter')_0x29d3a4(!![]);else{if(_0x137ab6[_0x106e9c(0x2ea)]==='Escape')_0x29d3a4(![]);}}),_0x106be3['addEventListener'](_0x5105eb(0x1e0),()=>_0x29d3a4(!![]));}_0x24aad9[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0xa478a4=>{const _0x17f939=_0x4ad09c,_0x305bba=_0xa478a4[_0x17f939(0x256)][_0x17f939(0x2c5)]('.week-header');if(_0x305bba){const _0x4e3718=_0x305bba[_0x17f939(0x233)][_0x17f939(0x1f0)];_0x5bd3f8[_0x17f939(0x25f)][_0x17f939(0x2ac)](_0x4e3718)?_0x5bd3f8[_0x17f939(0x25f)][_0x17f939(0x28d)](_0x4e3718):_0x5bd3f8['collapsedWeeks']['add'](_0x4e3718);_0x53313a();return;}const _0x6279f7=_0xa478a4['target'][_0x17f939(0x2c5)](_0x17f939(0x287));if(!_0x6279f7)return;const _0x577e28=+_0x6279f7['dataset']['id'],_0x343675=_0x5bd3f8[_0x17f939(0x216)][_0x17f939(0x249)](_0x3b5356=>_0x3b5356['id']===_0x577e28);if(!_0x343675)return;const _0x907f46=_0xa478a4[_0x17f939(0x256)]['closest']('button[data-action]');if(_0x907f46){const _0x587f0b=_0x907f46[_0x17f939(0x233)][_0x17f939(0x1b7)];if(_0x587f0b===_0x17f939(0x1a5)){_0x2d95c3(_0x17f939(0x297),'آیا\x20مطمئن\x20هستید\x20که\x20می‌خواهید\x20این\x20ردیف\x20را\x20حذف\x20کنید؟')[_0x17f939(0x286)](_0x2ea09c=>{const _0x1b8e28=_0x17f939;_0x2ea09c&&(_0x5bd3f8[_0x1b8e28(0x216)]=_0x5bd3f8['rows'][_0x1b8e28(0x225)](_0x38b4f5=>_0x38b4f5['id']!==_0x577e28),_0x2714d2(),_0x53313a());});return;}if(_0x587f0b===_0x17f939(0x1ef)){const _0x310ea1=JSON[_0x17f939(0x2ba)](JSON[_0x17f939(0x2a7)](_0x343675));_0x310ea1['id']=_0x167291(),_0x310ea1[_0x17f939(0x1c9)]=Array[_0x17f939(0x1d6)](_0x343675[_0x17f939(0x1c9)])?[..._0x343675[_0x17f939(0x1c9)]]:[],_0x310ea1[_0x17f939(0x261)]=_0x343675[_0x17f939(0x261)]||null,_0x5bd3f8[_0x17f939(0x216)]['push'](_0x310ea1),_0x2714d2(),_0x3fa9eb(),_0x53313a();return;}if(_0x587f0b===_0x17f939(0x254)){console[_0x17f939(0x2f4)](_0x17f939(0x2f1),_0x577e28),_0x36724f(_0x577e28);return;}}if(_0xa478a4[_0x17f939(0x256)][_0x17f939(0x2c2)](_0x17f939(0x2e0))){const _0x11bb36=_0xa478a4[_0x17f939(0x256)][_0x17f939(0x233)][_0x17f939(0x218)],_0x55bec0=_0xa478a4[_0x17f939(0x256)][_0x17f939(0x1a4)];_0x343675[_0x11bb36]=_0x55bec0;_0x55bec0&&(_0x11bb36===_0x17f939(0x2a8)&&(_0x343675['rf']=![],_0x343675['sl']=![]),_0x11bb36==='rf'&&(_0x343675[_0x17f939(0x2a8)]=![],_0x343675['sl']=![]),_0x11bb36==='sl'&&(_0x343675[_0x17f939(0x2a8)]=![],_0x343675['rf']=![]));_0x2714d2(),_0x53313a();return;}const _0x33d49a=_0xa478a4[_0x17f939(0x256)]['closest'](_0x17f939(0x1a8));_0x33d49a&&_0x41d47f(_0x33d49a);});function _0x167291(){const _0x14c2b0=_0x4ad09c;return(_0x5bd3f8[_0x14c2b0(0x216)][_0x14c2b0(0x21e)]((_0x14e4fc,_0x51212d)=>Math[_0x14c2b0(0x1fa)](_0x14e4fc,_0x51212d['id']),0x0)||0x0)+0x1;}document[_0x4ad09c(0x201)](_0x4ad09c(0x2e7))[_0x4ad09c(0x2c9)](_0x408ff2=>{const _0x265b5=_0x4ad09c;_0x408ff2[_0x265b5(0x26c)][_0x265b5(0x23a)]=_0x265b5(0x29b),_0x408ff2[_0x265b5(0x247)](_0x265b5(0x1c2),()=>{const _0x42058a=_0x265b5,_0x1161d5=_0x408ff2[_0x42058a(0x233)][_0x42058a(0x2ea)];if(_0x1161d5===_0x42058a(0x1c9))return;_0x5bd3f8[_0x42058a(0x219)]=_0x5bd3f8[_0x42058a(0x20c)]===_0x1161d5&&_0x5bd3f8[_0x42058a(0x219)]===_0x42058a(0x2f9)?'desc':_0x42058a(0x2f9),_0x5bd3f8[_0x42058a(0x20c)]=_0x1161d5,_0x53313a();});}),['search',_0x4ad09c(0x2a0),'f-kill',_0x4ad09c(0x1cc),_0x4ad09c(0x2d4)][_0x4ad09c(0x2c9)](_0x49ffa9=>_0x480aeb('#'+_0x49ffa9)[_0x4ad09c(0x247)](_0x4ad09c(0x2b6),_0x53313a));function _0x3fa9eb(){const _0x12d7ce=_0x4ad09c,_0x37b2c1=[...new Set(_0x5bd3f8[_0x12d7ce(0x216)][_0x12d7ce(0x1d2)](_0x5e9017=>_0x5e9017[_0x12d7ce(0x1e9)]))],_0x21d5a5=[...new Set(_0x5bd3f8[_0x12d7ce(0x216)][_0x12d7ce(0x1d2)](_0x168564=>_0x168564['killzone']))];_0x2cc132();const _0x14fa5b=_0x5df59e(),_0x42eab6=_0x4d9c21();_0x480aeb(_0x12d7ce(0x246))[_0x12d7ce(0x1f2)]='<option\x20value=\x22\x22>همه</option>'+_0x37b2c1[_0x12d7ce(0x1d2)](_0x557b26=>'<option>'+_0x557b26+_0x12d7ce(0x1e6))['join'](''),_0x480aeb(_0x12d7ce(0x2b2))['innerHTML']=_0x12d7ce(0x212)+_0x21d5a5[_0x12d7ce(0x1d2)](_0x580ce0=>'<option>'+_0x580ce0+_0x12d7ce(0x1e6))[_0x12d7ce(0x269)](''),_0x480aeb(_0x12d7ce(0x28c))['innerHTML']=_0x12d7ce(0x212)+_0x14fa5b['map'](_0x1781f4=>'<option>'+_0x1781f4+_0x12d7ce(0x1e6))[_0x12d7ce(0x269)](''),_0x3a933e();}function _0x3a933e(){const _0x4a6b43=_0x4ad09c;_0x49874d[_0x4a6b43(0x1f2)]='',_0x5bd3f8['filterSetupTypes'][_0x4a6b43(0x262)]===0x0?_0x49874d[_0x4a6b43(0x1f2)]=_0x4a6b43(0x2eb):_0x5bd3f8[_0x4a6b43(0x2fb)]['forEach'](_0x4c733e=>{const _0x26a7b9=_0x4a6b43,_0x513ae9=document[_0x26a7b9(0x1f9)]('span');_0x513ae9[_0x26a7b9(0x2ad)]=_0x26a7b9(0x21d),_0x513ae9[_0x26a7b9(0x242)]=_0x4c733e;const _0x2ef6dd=document[_0x26a7b9(0x1f9)](_0x26a7b9(0x1d0));_0x2ef6dd[_0x26a7b9(0x1f2)]=_0x26a7b9(0x2ef),_0x2ef6dd[_0x26a7b9(0x26c)][_0x26a7b9(0x22e)]=_0x26a7b9(0x228),_0x2ef6dd['style'][_0x26a7b9(0x2f8)]=_0x26a7b9(0x228),_0x2ef6dd[_0x26a7b9(0x26c)][_0x26a7b9(0x1bf)]='inherit',_0x2ef6dd[_0x26a7b9(0x26c)][_0x26a7b9(0x1dc)]='5px',_0x2ef6dd[_0x26a7b9(0x26c)][_0x26a7b9(0x23a)]=_0x26a7b9(0x29b),_0x2ef6dd[_0x26a7b9(0x239)]=_0x3819ae=>{const _0x620822=_0x26a7b9;_0x3819ae['stopPropagation'](),_0x5bd3f8[_0x620822(0x2fb)]=_0x5bd3f8[_0x620822(0x2fb)][_0x620822(0x225)](_0x3fd21e=>_0x3fd21e!==_0x4c733e),_0x2a4d2d[_0x620822(0x22b)]=_0x5bd3f8[_0x620822(0x2fb)][_0x620822(0x269)](','),_0x3a933e(),_0x53313a();},_0x513ae9['appendChild'](_0x2ef6dd),_0x49874d[_0x26a7b9(0x264)](_0x513ae9);}),_0x2a4d2d[_0x4a6b43(0x22b)]=_0x5bd3f8[_0x4a6b43(0x2fb)][_0x4a6b43(0x269)](',');}_0x49874d[_0x4ad09c(0x247)]('click',()=>{const _0x5f5d12=_0x4ad09c;_0x1d64c0(_0x5bd3f8[_0x5f5d12(0x2fb)],!![]);}),_0x480aeb(_0x4ad09c(0x252))[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>{const _0x3025cf=_0x4ad09c,_0xbb613f=_0x5bd3f8[_0x3025cf(0x216)][_0x5bd3f8['rows'][_0x3025cf(0x262)]-0x1]?.[_0x3025cf(0x2a1)]||new Date()[_0x3025cf(0x1ac)]()[_0x3025cf(0x2e4)](0x0,0xa),_0x1bc082=new Date(_0xbb613f+_0x3025cf(0x1e7)),_0x3f71de=_0x1bc082[_0x3025cf(0x22d)]('en-US',{'weekday':_0x3025cf(0x19b)}),_0x11d2a3=_0x5df59e(),_0x14982b=_0x11d2a3[_0x3025cf(0x262)]>0x0?_0x11d2a3[0x0]:'EURUSD';_0x5bd3f8['rows'][_0x3025cf(0x243)]({'id':_0x167291(),'date':_0xbb613f,'dow':_0x3f71de,'killzone':_0x3025cf(0x2f0),'direction':'Long','sdp':'','win':![],'rf':![],'sl':![],'rr':null,'time':'','comment':'','symbol':_0x14982b,'setupTypes':[],'image':null}),_0x2714d2(),_0x3fa9eb(),_0x53313a();}),_0x480aeb('#reset')[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>{const _0x705fc0=_0x4ad09c;_0x2d95c3(_0x705fc0(0x235),'آیا\x20مطمئن\x20هستید؟\x20تمام\x20داده‌های\x20فعلی\x20با\x20نمونه\x20اولیه\x20جایگزین\x20خواهد\x20شد.')[_0x705fc0(0x286)](_0x4cc5e2=>{const _0x173e21=_0x705fc0;_0x4cc5e2&&(_0x5bd3f8[_0x173e21(0x216)]=JSON[_0x173e21(0x2ba)](JSON['stringify'](_0x51303b)),_0x5bd3f8['customSymbols']=[],_0x5bd3f8['availableSetupTypes']=JSON[_0x173e21(0x2ba)](JSON[_0x173e21(0x2a7)](_0x1152c6)),_0x5bd3f8[_0x173e21(0x2fb)]=[],_0x2714d2(),_0x3fa9eb(),_0x53313a());});}),_0x480aeb(_0x4ad09c(0x27a))['addEventListener'](_0x4ad09c(0x1c2),()=>{const _0xc14000=_0x4ad09c;_0x2d95c3(_0xc14000(0x2ff),_0xc14000(0x26d))[_0xc14000(0x286)](_0x2c82fb=>{const _0x3b89b2=_0xc14000;_0x2c82fb&&(_0x5bd3f8[_0x3b89b2(0x216)]=[],_0x5bd3f8[_0x3b89b2(0x1f5)]=[],_0x5bd3f8[_0x3b89b2(0x2f3)]=JSON['parse'](JSON[_0x3b89b2(0x2a7)](_0x1152c6)),_0x5bd3f8[_0x3b89b2(0x2fb)]=[],_0x2714d2(),_0x3fa9eb(),_0x53313a());});}),_0x480aeb(_0x4ad09c(0x203))[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>{const _0x5eceec=_0x4ad09c,_0x3e4a40=Papa[_0x5eceec(0x24f)](_0x5bd3f8[_0x5eceec(0x216)],{'header':!![]}),_0x130fc8=new Blob([_0x3e4a40],{'type':'text/csv;charset=utf-8;'}),_0x58d5b7=URL['createObjectURL'](_0x130fc8),_0x496f83=document[_0x5eceec(0x1f9)]('a');_0x496f83[_0x5eceec(0x24e)]=_0x58d5b7,_0x496f83[_0x5eceec(0x295)]=_0x5eceec(0x2bc),_0x496f83[_0x5eceec(0x1c2)](),URL[_0x5eceec(0x1e4)](_0x58d5b7);}),_0x480aeb(_0x4ad09c(0x24b))[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>_0x480aeb(_0x4ad09c(0x211))[_0x4ad09c(0x1c2)]()),_0x480aeb('#csvFile')[_0x4ad09c(0x247)](_0x4ad09c(0x2c6),_0x33722c=>{const _0x5e0339=_0x4ad09c,_0x3697b7=_0x33722c[_0x5e0339(0x256)][_0x5e0339(0x2e2)][0x0];if(!_0x3697b7)return;_0x2d95c3('ورود\x20فایل\x20CSV',_0x5e0339(0x27c))[_0x5e0339(0x286)](_0x114744=>{const _0x2b9054=_0x5e0339;_0x114744&&Papa[_0x2b9054(0x2ba)](_0x3697b7,{'header':!![],'skipEmptyLines':!![],'complete':function(_0x5db202){const _0x533d5b=_0x2b9054;try{const _0x305a46=_0x5db202['data'][_0x533d5b(0x1d2)](_0x104ca4=>({'id':Number(_0x104ca4['id'])||0x0,'date':_0x104ca4['date']||'','dow':_0x104ca4[_0x533d5b(0x1e9)]||'','killzone':_0x104ca4[_0x533d5b(0x20a)]||'','direction':_0x104ca4['direction']||'','sdp':_0x104ca4[_0x533d5b(0x1f3)]||'','win':String(_0x104ca4[_0x533d5b(0x2a8)])[_0x533d5b(0x1fc)]()===_0x533d5b(0x26b),'rf':String(_0x104ca4['rf'])['toLowerCase']()==='true','sl':String(_0x104ca4['sl'])[_0x533d5b(0x1fc)]()===_0x533d5b(0x26b),'rr':_0x104ca4['rr']?Number(_0x104ca4['rr']):null,'time':_0x104ca4[_0x533d5b(0x23f)]||'','comment':_0x104ca4[_0x533d5b(0x254)]||'','symbol':_0x104ca4[_0x533d5b(0x29e)]?String(_0x104ca4[_0x533d5b(0x29e)])[_0x533d5b(0x2bb)]()[_0x533d5b(0x2c4)]():_0x533d5b(0x2a9),'setupTypes':_0x104ca4[_0x533d5b(0x1c9)]?String(_0x104ca4[_0x533d5b(0x1c9)])[_0x533d5b(0x25a)](',')[_0x533d5b(0x1d2)](_0x41f71c=>_0x41f71c[_0x533d5b(0x2c4)]())['filter'](_0x4128c9=>_0x4128c9!==''):[],'image':_0x104ca4[_0x533d5b(0x261)]||null}));_0x5bd3f8[_0x533d5b(0x216)]=_0x305a46;const _0x301859=new Set(_0x305a46['map'](_0xcaa3a9=>_0xcaa3a9[_0x533d5b(0x29e)])['filter'](_0x590df1=>_0x590df1));_0x301859[_0x533d5b(0x2c9)](_0x4fc376=>{const _0x38f8f7=_0x533d5b;!_0x3dd5e0['includes'](_0x4fc376)&&!_0x5bd3f8[_0x38f8f7(0x1f5)][_0x38f8f7(0x1ee)](_0x4fc376)&&_0x5bd3f8['customSymbols']['push'](_0x4fc376);});const _0x433085=new Set();_0x305a46[_0x533d5b(0x2c9)](_0x3e4e93=>{const _0x36acf7=_0x533d5b;Array['isArray'](_0x3e4e93[_0x36acf7(0x1c9)])&&_0x3e4e93[_0x36acf7(0x1c9)][_0x36acf7(0x2c9)](_0x1a7a75=>_0x433085['add'](_0x1a7a75));}),_0x433085[_0x533d5b(0x2c9)](_0x62d931=>{const _0x5405ff=_0x533d5b;!_0x4d9c21()[_0x5405ff(0x1ee)](_0x62d931)&&_0x5bd3f8['availableSetupTypes'][_0x5405ff(0x243)](_0x62d931);}),_0x5bd3f8[_0x533d5b(0x2f3)][_0x533d5b(0x2dd)](),_0x2714d2(),_0x3fa9eb(),_0x53313a();}catch(_0x4e534a){console[_0x533d5b(0x20f)](_0x533d5b(0x1d5),_0x4e534a),_0x2d95c3(_0x533d5b(0x1b2),_0x533d5b(0x241),![]);}},'error':function(_0x521eb9){const _0x8547e0=_0x2b9054;console['error'](_0x8547e0(0x1e3),_0x521eb9),_0x2d95c3(_0x8547e0(0x1b2),'خطا\x20در\x20خواندن\x20فایل\x20CSV.\x20لطفا\x20از\x20صحت\x20فایل\x20اطمینان\x20حاصل\x20کنید.',![]);}});}),_0x33722c['target'][_0x5e0339(0x22b)]='';}),_0x480aeb(_0x4ad09c(0x226))['addEventListener'](_0x4ad09c(0x1c2),()=>{const _0x58573c=_0x4ad09c;_0x480aeb(_0x58573c(0x1c0))[_0x58573c(0x22b)]='',_0x480aeb(_0x58573c(0x246))[_0x58573c(0x22b)]='',_0x480aeb('#f-kill')[_0x58573c(0x22b)]='',_0x480aeb(_0x58573c(0x2e8))['value']='',_0x480aeb('#f-symbol')[_0x58573c(0x22b)]='',_0x5bd3f8[_0x58573c(0x2fb)]=[],_0x3fa9eb(),_0x53313a();}),_0x480aeb('#group-by-week')[_0x4ad09c(0x247)](_0x4ad09c(0x2c6),_0x3e1f37=>{const _0x31cb97=_0x4ad09c;_0x5bd3f8[_0x31cb97(0x1e2)]=_0x3e1f37['target'][_0x31cb97(0x1a4)],_0x5bd3f8['groupByWeek']&&(_0x5bd3f8[_0x31cb97(0x25f)]=new Set(_0x5bd3f8[_0x31cb97(0x216)][_0x31cb97(0x1d2)](_0xd8565=>_0x31ba0f(new Date(_0xd8565[_0x31cb97(0x2a1)]))))),_0x53313a();});function _0x36724f(_0x4b957a){const _0x5b204d=_0x4ad09c;_0x5bd3f8[_0x5b204d(0x2cc)]=_0x4b957a;const _0x3fbfb5=_0x5bd3f8[_0x5b204d(0x216)][_0x5b204d(0x249)](_0x13ce67=>_0x13ce67['id']===_0x4b957a);_0x3fbfb5?(_0x345eb1['value']=_0x3fbfb5[_0x5b204d(0x254)]||'',_0x3fbfb5[_0x5b204d(0x261)]?(_0x200aa0[_0x5b204d(0x27d)]=_0x3fbfb5[_0x5b204d(0x261)],_0x200aa0[_0x5b204d(0x26c)][_0x5b204d(0x267)]=_0x5b204d(0x2c3),_0x3912e0[_0x5b204d(0x26c)]['display']='block',_0xa54d5c[_0x5b204d(0x26c)][_0x5b204d(0x267)]='inline-flex',_0xa1b900[_0x5b204d(0x242)]=_0x5b204d(0x2ae)):(_0x200aa0[_0x5b204d(0x27d)]='#',_0x200aa0[_0x5b204d(0x26c)]['display']=_0x5b204d(0x228),_0x3912e0[_0x5b204d(0x26c)]['display']=_0x5b204d(0x228),_0xa54d5c[_0x5b204d(0x26c)][_0x5b204d(0x267)]='none',_0xa1b900['textContent']='آپلود\x20عکس'),_0x1aef22[_0x5b204d(0x22b)]='',_0x523a37[_0x5b204d(0x1f6)]['add'](_0x5b204d(0x1b5))):console[_0x5b204d(0x20f)]('Trade\x20with\x20ID',_0x4b957a,_0x5b204d(0x2d0));}_0x480aeb(_0x4ad09c(0x1af))[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>_0x523a37[_0x4ad09c(0x1f6)][_0x4ad09c(0x2ee)](_0x4ad09c(0x1b5))),_0x480aeb(_0x4ad09c(0x303))[_0x4ad09c(0x247)]('click',()=>_0x523a37['classList'][_0x4ad09c(0x2ee)]('visible')),_0x523a37[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0x29ccb1=>{const _0x2a2ca5=_0x4ad09c;_0x29ccb1[_0x2a2ca5(0x256)]===_0x523a37&&_0x523a37[_0x2a2ca5(0x1f6)][_0x2a2ca5(0x2ee)](_0x2a2ca5(0x1b5));}),_0x480aeb(_0x4ad09c(0x2c7))[_0x4ad09c(0x247)]('click',()=>{const _0x2e612b=_0x4ad09c;if(_0x5bd3f8[_0x2e612b(0x2cc)]!==null){const _0x3bc6e8=_0x5bd3f8[_0x2e612b(0x216)][_0x2e612b(0x249)](_0x3740f5=>_0x3740f5['id']===_0x5bd3f8[_0x2e612b(0x2cc)]);_0x3bc6e8['comment']=_0x345eb1['value'],_0x2714d2(),_0x53313a();}_0x523a37[_0x2e612b(0x1f6)][_0x2e612b(0x2ee)](_0x2e612b(0x1b5));}),_0xa1b900[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>{const _0x5832d9=_0x4ad09c;_0x1aef22[_0x5832d9(0x1c2)]();}),_0x1aef22['addEventListener'](_0x4ad09c(0x2c6),_0x4f7e32=>{const _0x3a5250=_0x4ad09c,_0x491698=_0x4f7e32[_0x3a5250(0x256)][_0x3a5250(0x2e2)][0x0];if(_0x491698){const _0x1d9532=new FileReader();_0x1d9532[_0x3a5250(0x2d7)]=_0x17a61b=>{const _0x1dee63=_0x3a5250,_0x29c12d=_0x17a61b['target'][_0x1dee63(0x215)];if(_0x5bd3f8[_0x1dee63(0x2cc)]!==null){const _0x50934e=_0x5bd3f8[_0x1dee63(0x216)]['find'](_0x50dd24=>_0x50dd24['id']===_0x5bd3f8[_0x1dee63(0x2cc)]);_0x50934e[_0x1dee63(0x261)]=_0x29c12d,_0x200aa0[_0x1dee63(0x27d)]=_0x29c12d,_0x200aa0[_0x1dee63(0x26c)][_0x1dee63(0x267)]=_0x1dee63(0x2c3),_0x3912e0[_0x1dee63(0x26c)][_0x1dee63(0x267)]=_0x1dee63(0x2c3),_0xa54d5c['style'][_0x1dee63(0x267)]=_0x1dee63(0x285),_0xa1b900[_0x1dee63(0x242)]=_0x1dee63(0x2ae);}},_0x1d9532[_0x3a5250(0x2e9)](_0x491698);}}),_0xa54d5c[_0x4ad09c(0x247)]('click',()=>{const _0x5242de=_0x4ad09c;_0x2d95c3(_0x5242de(0x2db),'آیا\x20مطمئن\x20هستید\x20که\x20می‌خواهید\x20این\x20عکس\x20را\x20حذف\x20کنید؟')['then'](_0x396f03=>{const _0x1c5823=_0x5242de;if(_0x396f03){if(_0x5bd3f8[_0x1c5823(0x2cc)]!==null){const _0x110b7a=_0x5bd3f8['rows'][_0x1c5823(0x249)](_0x4fe8f9=>_0x4fe8f9['id']===_0x5bd3f8[_0x1c5823(0x2cc)]);_0x110b7a[_0x1c5823(0x261)]=null,_0x200aa0['src']='#',_0x200aa0['style'][_0x1c5823(0x267)]=_0x1c5823(0x228),_0x3912e0['style'][_0x1c5823(0x267)]=_0x1c5823(0x228),_0xa54d5c[_0x1c5823(0x26c)]['display']=_0x1c5823(0x228),_0xa1b900[_0x1c5823(0x242)]='آپلود\x20عکس';}}});}),_0x200aa0[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>{const _0xf52608=_0x4ad09c;_0x200aa0[_0xf52608(0x27d)]&&_0x200aa0['src']!==window['location'][_0xf52608(0x24e)]&&(_0xf84204[_0xf52608(0x27d)]=_0x200aa0[_0xf52608(0x27d)],_0x4142f3[_0xf52608(0x1f6)]['add']('visible'));}),_0x4ef5b7[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>{const _0x3e8f91=_0x4ad09c;_0x4142f3['classList'][_0x3e8f91(0x2ee)](_0x3e8f91(0x1b5));}),_0x4142f3['addEventListener'](_0x4ad09c(0x1c2),_0x1e7742=>{const _0x20afc9=_0x4ad09c;(_0x1e7742[_0x20afc9(0x256)]===_0x4142f3||_0x1e7742[_0x20afc9(0x256)]===_0xf84204)&&_0x4142f3['classList'][_0x20afc9(0x2ee)](_0x20afc9(0x1b5));}),_0x480aeb('#manage-symbols-btn')[_0x4ad09c(0x247)]('click',_0x58a0f4),_0x480aeb('#close-manage-symbols-modal')[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0x4f6fa7),_0x480aeb(_0x4ad09c(0x22c))['addEventListener'](_0x4ad09c(0x1c2),_0x4f6fa7),_0x2cd25a[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0x4573c3=>{_0x4573c3['target']===_0x2cd25a&&_0x4f6fa7();});function _0x58a0f4(){const _0x17f5e8=_0x4ad09c;_0x1799eb(),_0x2cd25a[_0x17f5e8(0x1f6)][_0x17f5e8(0x248)](_0x17f5e8(0x1b5)),_0xb77692[_0x17f5e8(0x22a)]();}function _0x4f6fa7(){const _0x4f49bb=_0x4ad09c;_0x2cd25a[_0x4f49bb(0x1f6)]['remove'](_0x4f49bb(0x1b5)),_0x2714d2(),_0x3fa9eb(),_0x53313a();}function _0x1799eb(){const _0x3ebf18=_0x4ad09c;_0x193ccf['innerHTML']='';const _0x56adf0=_0x5df59e(),_0x59aa88=_0x56adf0['filter'](_0x3f1bce=>_0x3f1bce[_0x3ebf18(0x2c4)]()!=='');_0x59aa88[_0x3ebf18(0x2c9)](_0x331c33=>{const _0x5a704e=_0x3ebf18,_0x2165b9=_0x3dd5e0['includes'](_0x331c33),_0x106157=document[_0x5a704e(0x1f9)](_0x5a704e(0x23d));_0x106157[_0x5a704e(0x2ad)]='symbol-item\x20'+(_0x2165b9?_0x5a704e(0x258):''),_0x106157['innerHTML']=_0x5a704e(0x1da)+_0x331c33+_0x5a704e(0x1d3)+_0x331c33+'\x22\x20'+(_0x2165b9?_0x5a704e(0x27b):'')+_0x5a704e(0x27e),_0x193ccf[_0x5a704e(0x264)](_0x106157);});}_0x437acd[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0x484728),_0xb77692['addEventListener'](_0x4ad09c(0x23b),_0xd96204=>{const _0x206147=_0x4ad09c;_0xd96204[_0x206147(0x2ea)]==='Enter'&&_0x484728();});function _0x484728(){const _0x302fb4=_0x4ad09c,_0x4debb7=_0xb77692['value'][_0x302fb4(0x2bb)]()['trim']();if(_0x4debb7&&!_0x3dd5e0[_0x302fb4(0x1ee)](_0x4debb7)&&!_0x5bd3f8[_0x302fb4(0x1f5)]['includes'](_0x4debb7))_0x5bd3f8[_0x302fb4(0x1f5)][_0x302fb4(0x243)](_0x4debb7),_0x5bd3f8[_0x302fb4(0x1f5)][_0x302fb4(0x2dd)](),_0xb77692[_0x302fb4(0x22b)]='',_0x1799eb();else _0x4debb7&&_0x2d95c3(_0x302fb4(0x1b2),_0x302fb4(0x2ce),![]);}_0x193ccf[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0x1ec380=>{const _0x529cf4=_0x4ad09c,_0x273e50=_0x1ec380[_0x529cf4(0x256)]['closest']('.delete-symbol-btn');if(_0x273e50&&!_0x273e50[_0x529cf4(0x27b)]){const _0x453825=_0x273e50['dataset'][_0x529cf4(0x29e)];_0x5d6d29(_0x453825);}});function _0x5d6d29(_0x5d5fa1){const _0x28ff7d=_0x4ad09c;_0x2d95c3(_0x28ff7d(0x274),_0x28ff7d(0x2c0)+_0x5d5fa1+_0x28ff7d(0x1de))[_0x28ff7d(0x286)](_0x388857=>{const _0x197c74=_0x28ff7d;_0x388857&&(_0x5bd3f8[_0x197c74(0x1f5)]=_0x5bd3f8[_0x197c74(0x1f5)][_0x197c74(0x225)](_0x331289=>_0x331289!==_0x5d5fa1),_0x5bd3f8[_0x197c74(0x216)][_0x197c74(0x2c9)](_0x46e526=>{const _0xe95b23=_0x197c74;_0x46e526[_0xe95b23(0x29e)]===_0x5d5fa1&&(_0x46e526[_0xe95b23(0x29e)]='');}),_0x1799eb());});}let _0x345886=[],_0x1c1acf=![];function _0x1d64c0(_0x49bb1b,_0x20c8b6=![]){const _0xe6f2=_0x4ad09c;_0x345886=[..._0x49bb1b],_0x1c1acf=_0x20c8b6,_0x1541cb(),_0x174f93['classList'][_0xe6f2(0x248)]('visible');}function _0x27625a(){const _0x557e1e=_0x4ad09c;_0x174f93['classList'][_0x557e1e(0x2ee)](_0x557e1e(0x1b5));}function _0x1541cb(){const _0x1dd438=_0x4ad09c;_0x36b2ab[_0x1dd438(0x1f2)]='';const _0x218044=_0x4d9c21(),_0x46d81f=_0x218044[_0x1dd438(0x225)](_0x531586=>_0x531586[_0x1dd438(0x2c4)]()!=='');_0x46d81f[_0x1dd438(0x2c9)](_0x1d721a=>{const _0xc43d8=_0x1dd438,_0x22c716=_0x345886['includes'](_0x1d721a),_0x2bcf71=document[_0xc43d8(0x1f9)](_0xc43d8(0x299));_0x2bcf71['className']=_0xc43d8(0x1d7)+(_0x22c716?'selected':''),_0x2bcf71['innerHTML']=_0xc43d8(0x2dc)+_0x1d721a+'\x22\x20'+(_0x22c716?_0xc43d8(0x1a4):'')+_0xc43d8(0x1c6)+_0x1d721a+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x2bcf71[_0xc43d8(0x247)]('click',_0x4dacc5=>{const _0x2c61cd=_0xc43d8,_0x59b4cd=_0x2bcf71['querySelector'](_0x2c61cd(0x2b6));_0x59b4cd[_0x2c61cd(0x1a4)]=!_0x59b4cd[_0x2c61cd(0x1a4)],_0x59b4cd[_0x2c61cd(0x1a4)]?!_0x345886[_0x2c61cd(0x1ee)](_0x1d721a)&&_0x345886[_0x2c61cd(0x243)](_0x1d721a):_0x345886=_0x345886[_0x2c61cd(0x225)](_0x4ccb4b=>_0x4ccb4b!==_0x1d721a),_0x2bcf71['classList'][_0x2c61cd(0x1fb)](_0x2c61cd(0x291),_0x59b4cd[_0x2c61cd(0x1a4)]);}),_0x36b2ab['appendChild'](_0x2bcf71);});}_0x480aeb('#save-setup-type-selection')[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>{const _0x2fc301=_0x4ad09c;if(_0x1c1acf)_0x5bd3f8[_0x2fc301(0x2fb)]=[..._0x345886],_0x3a933e(),_0x53313a();else{if(_0x5bd3f8[_0x2fc301(0x1cd)]!==null){const _0x4fc1c4=_0x5bd3f8[_0x2fc301(0x216)][_0x2fc301(0x249)](_0x1c6785=>_0x1c6785['id']===_0x5bd3f8[_0x2fc301(0x1cd)]);_0x4fc1c4[_0x2fc301(0x1c9)]=[..._0x345886],_0x2714d2(),_0x53313a();}}_0x27625a();}),_0x480aeb('#cancel-setup-type-selection')['addEventListener'](_0x4ad09c(0x1c2),_0x27625a),_0x480aeb(_0x4ad09c(0x1aa))[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0x27625a),_0x174f93[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0xa5aeea=>{const _0x13a0d9=_0x4ad09c;_0xa5aeea[_0x13a0d9(0x256)]===_0x174f93&&_0x27625a();}),_0x480aeb(_0x4ad09c(0x28e))['addEventListener'](_0x4ad09c(0x1c2),_0x2f8d02),_0x480aeb('#close-manage-setup-types-modal')[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0xcd8ba4),_0x480aeb(_0x4ad09c(0x2be))[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0xcd8ba4),_0x9dba87[_0x4ad09c(0x247)]('click',_0x32d059=>{const _0x31b69b=_0x4ad09c;_0x32d059[_0x31b69b(0x256)]===_0x9dba87&&_0xcd8ba4();});function _0x2f8d02(){const _0x41d30e=_0x4ad09c;_0xed780(),_0x9dba87[_0x41d30e(0x1f6)][_0x41d30e(0x248)]('visible'),_0xc4a933[_0x41d30e(0x22a)]();}function _0xcd8ba4(){const _0x41e24b=_0x4ad09c;_0x9dba87['classList'][_0x41e24b(0x2ee)](_0x41e24b(0x1b5)),_0x2714d2(),_0x3fa9eb(),_0x53313a();}function _0xed780(){const _0x44557d=_0x4ad09c;_0x2d70bf['innerHTML']='';const _0x466914=_0x4d9c21(),_0x15d7db=_0x466914[_0x44557d(0x225)](_0x24bf6d=>_0x24bf6d['trim']()!=='');_0x15d7db[_0x44557d(0x2c9)](_0x4d86ac=>{const _0x489fd5=_0x44557d,_0x4d47fd=_0x1152c6[_0x489fd5(0x1ee)](_0x4d86ac),_0x132d4e=document['createElement'](_0x489fd5(0x23d));_0x132d4e['className']=_0x489fd5(0x1cb)+(_0x4d47fd?'default-type':''),_0x132d4e[_0x489fd5(0x1f2)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>'+_0x4d86ac+_0x489fd5(0x1f7)+_0x4d86ac+'\x22\x20'+(_0x4d47fd?_0x489fd5(0x27b):'')+_0x489fd5(0x27e),_0x2d70bf[_0x489fd5(0x264)](_0x132d4e);});}_0x238ed7[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0x319596),_0xc4a933['addEventListener'](_0x4ad09c(0x23b),_0x12f6b5=>{const _0x4e0e1=_0x4ad09c;_0x12f6b5['key']===_0x4e0e1(0x1ab)&&_0x319596();});function _0x319596(){const _0x3b818c=_0x4ad09c,_0x4b187c=_0xc4a933[_0x3b818c(0x22b)][_0x3b818c(0x2bb)]()['trim']();if(_0x4b187c&&!_0x4d9c21()[_0x3b818c(0x1ee)](_0x4b187c))_0x5bd3f8[_0x3b818c(0x2f3)]['push'](_0x4b187c),_0x5bd3f8['availableSetupTypes'][_0x3b818c(0x2dd)](),_0xc4a933[_0x3b818c(0x22b)]='',_0xed780();else _0x4b187c&&_0x2d95c3('خطا',_0x3b818c(0x1b8),![]);}_0x2d70bf['addEventListener']('click',_0x5d72b4=>{const _0x184ee4=_0x4ad09c,_0xc0e00d=_0x5d72b4[_0x184ee4(0x256)][_0x184ee4(0x2c5)](_0x184ee4(0x1c4));if(_0xc0e00d&&!_0xc0e00d[_0x184ee4(0x27b)]){const _0x5330b8=_0xc0e00d['dataset']['type'];_0x54810e(_0x5330b8);}});function _0x54810e(_0x5b773d){const _0x17b101=_0x4ad09c;_0x2d95c3('تأیید\x20حذف\x20نوع\x20تنظیمات',_0x17b101(0x2b8)+_0x5b773d+_0x17b101(0x1de))[_0x17b101(0x286)](_0x1eb016=>{const _0x3aa8c0=_0x17b101;_0x1eb016&&(_0x5bd3f8[_0x3aa8c0(0x2f3)]=_0x5bd3f8[_0x3aa8c0(0x2f3)][_0x3aa8c0(0x225)](_0x3d6ae0=>_0x3d6ae0!==_0x5b773d),_0x5bd3f8['rows'][_0x3aa8c0(0x2c9)](_0x3c50bc=>{const _0x5e4930=_0x3aa8c0;Array[_0x5e4930(0x1d6)](_0x3c50bc[_0x5e4930(0x1c9)])&&(_0x3c50bc[_0x5e4930(0x1c9)]=_0x3c50bc[_0x5e4930(0x1c9)][_0x5e4930(0x225)](_0x315bdf=>_0x315bdf!==_0x5b773d));}),_0xed780());});}function _0x2d95c3(_0x5d500f,_0x1b4e59,_0x28b4fa=!![]){const _0x409132=_0x4ad09c;return _0x328b0e[_0x409132(0x242)]=_0x5d500f,_0x2eea10['textContent']=_0x1b4e59,_0x5be8cf[_0x409132(0x26c)][_0x409132(0x267)]=_0x28b4fa?_0x409132(0x285):'none',_0x281002['classList'][_0x409132(0x248)](_0x409132(0x1b5)),new Promise(_0x304b93=>{_0x2d25dc=_0x304b93;});}function _0x5ad90a(_0x1aa9af){const _0x42c808=_0x4ad09c;_0x281002['classList'][_0x42c808(0x2ee)](_0x42c808(0x1b5)),_0x2d25dc&&(_0x2d25dc(_0x1aa9af),_0x2d25dc=null);}_0x2f2b35[_0x4ad09c(0x247)]('click',()=>_0x5ad90a(!![])),_0x5be8cf[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>_0x5ad90a(![])),_0x38a6c9[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),()=>_0x5ad90a(![])),_0x281002[_0x4ad09c(0x247)](_0x4ad09c(0x1c2),_0x5b6514=>{_0x5b6514['target']===_0x281002&&_0x5ad90a(![]);}),_0x480aeb('#charts-panel\x20.panel-header')[_0x4ad09c(0x247)]('click',()=>{const _0x66eff8=_0x4ad09c;_0x480aeb(_0x66eff8(0x282))[_0x66eff8(0x1f6)]['toggle']('collapsed');}),Chart['defaults'][_0x4ad09c(0x1bf)]=_0x4ad09c(0x263),Chart[_0x4ad09c(0x1e5)][_0x4ad09c(0x2c8)]=_0x4ad09c(0x19e);function _0x1ffbeb(_0x5d420a){const _0x58d6f6=_0x4ad09c;if(_0x5d420a[_0x58d6f6(0x262)]===0x0)return;let _0x5ba8ba=0x0;const _0x3d3544=_0x5d420a[_0x58d6f6(0x1d2)](_0x5f3766=>{const _0x252bf9=_0x58d6f6;if(_0x5f3766[_0x252bf9(0x2a8)])_0x5ba8ba+=_0x5f3766['rr']||0x0;else{if(_0x5f3766['sl'])_0x5ba8ba-=0x1;}return _0x5ba8ba;}),_0x37cdfe=_0x480aeb(_0x58d6f6(0x202))[_0x58d6f6(0x2e6)]('2d'),_0x222c7f=_0x37cdfe[_0x58d6f6(0x2de)](0x0,0x0,0x0,_0x37cdfe[_0x58d6f6(0x244)][_0x58d6f6(0x1bb)]);_0x222c7f[_0x58d6f6(0x221)](0x0,'rgba(77,\x20212,\x20172,\x200.5)'),_0x222c7f[_0x58d6f6(0x221)](0x1,_0x58d6f6(0x22f));if(_0x5769dd[_0x58d6f6(0x1a6)])_0x5769dd[_0x58d6f6(0x1a6)]['destroy']();_0x5769dd[_0x58d6f6(0x1a6)]=new Chart(_0x37cdfe,{'type':_0x58d6f6(0x290),'data':{'labels':_0x5d420a[_0x58d6f6(0x1d2)]((_0x57b896,_0x10ffd7)=>'Trade\x20'+(_0x10ffd7+0x1)),'datasets':[{'label':_0x58d6f6(0x298),'data':_0x3d3544,'borderColor':_0x58d6f6(0x2e3),'backgroundColor':_0x222c7f,'fill':!![],'tension':0.4,'pointBackgroundColor':_0x58d6f6(0x2e3),'pointRadius':0x2,'pointHoverRadius':0x5}]},'options':{'responsive':!![],'maintainAspectRatio':![]}});const _0x45e812=['Mon',_0x58d6f6(0x210),_0x58d6f6(0x25e),_0x58d6f6(0x1a9),'Fri'],_0xb0a98e=_0x45e812[_0x58d6f6(0x1d2)](_0x197c7a=>{const _0x5c43ab=_0x58d6f6;return _0x5d420a[_0x5c43ab(0x225)](_0x2f8e27=>_0x2f8e27[_0x5c43ab(0x1e9)]===_0x197c7a)[_0x5c43ab(0x21e)]((_0x236294,_0x4b00c9)=>{const _0x3001d4=_0x5c43ab;if(_0x4b00c9[_0x3001d4(0x2a8)])return _0x236294+(_0x4b00c9['rr']||0x0);if(_0x4b00c9['sl'])return _0x236294-0x1;return _0x236294;},0x0);});if(_0x5769dd[_0x58d6f6(0x1e9)])_0x5769dd[_0x58d6f6(0x1e9)]['destroy']();_0x5769dd['dow']=new Chart(_0x480aeb(_0x58d6f6(0x2df)),{'type':_0x58d6f6(0x27f),'data':{'labels':_0x45e812,'datasets':[{'label':_0x58d6f6(0x238),'data':_0xb0a98e,'backgroundColor':_0xb0a98e['map'](_0x3cb1bd=>_0x3cb1bd>=0x0?'rgba(77,\x20212,\x20172,\x200.7)':'rgba(255,\x20107,\x20107,\x200.7)'),'borderRadius':0x4,'hoverBackgroundColor':_0xb0a98e[_0x58d6f6(0x1d2)](_0x23b9b=>_0x23b9b>=0x0?_0x58d6f6(0x2e3):'rgba(255,\x20107,\x20107,\x201)')}]},'options':{'responsive':!![],'maintainAspectRatio':![],'plugins':{'legend':{'display':![]}},'scales':{'x':{'grid':{'display':![]}}}}});const _0x35fb9a={'wins':_0x5d420a[_0x58d6f6(0x225)](_0x553bc6=>_0x553bc6[_0x58d6f6(0x2a8)])['length'],'losses':_0x5d420a[_0x58d6f6(0x225)](_0x64bf52=>_0x64bf52['sl'])['length'],'rf':_0x5d420a['filter'](_0x518d3d=>_0x518d3d['rf'])['length']};if(_0x5769dd[_0x58d6f6(0x21b)])_0x5769dd['outcome'][_0x58d6f6(0x1bc)]();_0x5769dd['outcome']=new Chart(_0x480aeb('#outcome-chart'),{'type':_0x58d6f6(0x207),'data':{'labels':[_0x58d6f6(0x29c),'باخت','سر\x20به\x20سر'],'datasets':[{'data':[_0x35fb9a[_0x58d6f6(0x23e)],_0x35fb9a['losses'],_0x35fb9a['rf']],'backgroundColor':['rgba(77,\x20212,\x20172,\x200.8)','rgba(255,\x20107,\x20107,\x200.8)',_0x58d6f6(0x1a3)],'borderColor':'var(--panel)','hoverOffset':0x8}]},'options':{'responsive':!![],'maintainAspectRatio':![],'plugins':{'legend':{'position':_0x58d6f6(0x1c5)}}}});}_0x3fa9eb(),_0x53313a();}));function _0x1c48(){const _0x4a4bc5=['#new-setup-type-input','div','wins','time','keys','خطا\x20در\x20پردازش\x20داده‌های\x20فایل\x20CSV.','textContent','push','canvas','every','#f-dow','addEventListener','add','find','#add-new-setup-type-btn','#importCsv','#manage-symbols-modal','#image-file-input','href','unparse','08:50','setHours','#addRow','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22editable\x22\x20data-field=\x22symbol\x22><span\x20class=\x22chip\x22>','comment','</span>','target','Error\x20loading\x20symbols\x20from\x20local\x20storage:','default-symbol','آماده','split','07:10','04:30','L\x20Open\x20NY','Wed','collapsedWeeks','+OB','image','length','#9aa5b3','appendChild','30doLYwG','Long','display','k-sb-ny','join','getDay','true','style','آیا\x20مطمئن\x20هستید\x20که\x20می‌خواهید\x20تمام\x20داده‌ها\x20و\x20نمادهای\x20سفارشی\x20را\x20پاک\x20کنید؟\x20این\x20عمل\x20غیرقابل\x20بازگشت\x20است.','total','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22center\x20num\x22\x20data-field=\x22id\x22>','Error\x20loading\x20setup\x20types\x20from\x20local\x20storage:','1532cqgEsg','k-sb-ldn','\x20<i\x20class=\x22fas\x20fa-image\x22\x20style=\x22font-size:\x200.8em;\x22></i>','تأیید\x20حذف\x20نماد','style=\x22display:\x20none;\x22','.cell-editor','saved','3.5\x20/\x204','Short','#clearAll','disabled','آیا\x20مطمئن\x20هستید؟\x20تمام\x20داده‌های\x20فعلی\x20با\x20محتوای\x20فایل\x20جایگزین\x20خواهد\x20شد.','src','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fas\x20fa-times\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','bar','SMT','#manage-setup-types-modal','#charts-panel','High\x20Asia','#save-status','inline-flex','then','tr.trade-row','Fri','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22center\x20editable\x22\x20data-field=\x22time\x22>','option','toFixed','#f-symbol','delete','#manage-setup-types-btn','Propulsion\x20Block','line','selected','3PD\x20Array','#new-symbol-input','#available-setup-types-list','download','2025-04-16','تأیید\x20حذف','منحنی\x20سود\x20(R)','label','233030ZKapdb','pointer','برد','round','symbol','from','f-dow','date','k-l','CISD','2025-04-03','BTCUSD','#confirm-ok','stringify','win','EURUSD','#confirm-message','</div></td>\x20<!--\x20New\x20column\x20for\x20setup\x20types\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22editable\x22\x20data-field=\x22date\x22>','has','className','تغییر\x20عکس','#grid\x20thead\x20th[data-key=\x22','1290nVzIBu','sort-asc','#f-kill','bt_setup_types_v1','</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22editable\x22\x20data-field=\x22direction\x22><span\x20class=\x22chip\x20','2\x20/\x202.5','input','getFullYear','آیا\x20مطمئن\x20هستید\x20که\x20می‌خواهید\x20نوع\x20تنظیمات\x20','DOMContentLoaded','parse','toUpperCase','backtest.csv','6gwknUD','#done-managing-setup-types','26510xLGvfE','آیا\x20مطمئن\x20هستید\x20که\x20می‌خواهید\x20نماد\x20','ذخیره\x20شد!','matches','block','trim','closest','change','#save-comment','borderColor','forEach','08:30','getTime','editingCommentId','3199480cveAJo','این\x20نماد\x20از\x20قبل\x20موجود\x20است\x20یا\x20ورودی\x20نامعتبر\x20است.','</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22editable\x22\x20data-field=\x22killzone\x22><span\x20class=\x22chip\x20','not\x20found\x20for\x20commenting.','Unicorn','#upload-image-btn','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>RANGE:\x20<strong\x20class=\x22num\x22>','f-symbol','#setup-type-checkbox-container','#symbol-list-container','onload','0.01','#add-symbol-btn','#remove-image-btn','تأیید\x20حذف\x20عکس','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20value=\x22','sort','createLinearGradient','#dow-chart','input[type=\x22checkbox\x22]','MSS','files','rgba(77,\x20212,\x20172,\x201)','slice','cell-editor','getContext','#grid\x20th[data-key]','#f-status','readAsDataURL','key','<span\x20style=\x22color:\x20var(--sub);\x22>همه</span>','Error\x20loading\x20rows\x20from\x20local\x20storage:','2025-04-12','remove','&times;','LDN','Comment\x20button\x20clicked\x20for\x20ID:','en-US','availableSetupTypes','log','setItem','<span\x20class=\x22stat\x22>داده‌ای\x20برای\x20نمایش\x20وجود\x20ندارد</span>','bt_rows_v18','border','asc','IFVG','filterSetupTypes','ITH','select','querySelector','پاک\x20کردن\x20همه\x20داده‌ها','sort-desc','</strong></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>تعداد:\x20<strong\x20class=\x22num\x22>','k-ny','#cancel-comment','BPR','LDN\x20Close','direction','getItem','2025-04-02','short','#zoomed-image','#confirm-title','rgba(154,\x20165,\x20179,\x200.1)','Silver\x20bullet\x20NY','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22editable\x22\x20data-field=\x22dow\x22><span\x20class=\x22chip\x22>','</strong>\x20(','Almost\x20worked.','rgba(154,\x20165,\x20179,\x200.8)','checked','del','equity','-OB','td.editable','Thu','#close-setup-type-selection-modal','Enter','toISOString','#setup-type-selection-modal','\x22\x20data-action=\x22comment\x22\x20title=\x22یادداشت\x20و\x20عکس\x22><i\x20class=\x22fas\x20fa-note-sticky\x22></i>','#close-comment-modal','dir-long','></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22center\x20num\x20editable\x22\x20data-field=\x22rr\x22>','خطا','2025-04-17','WICK\x2050%','visible','winPercent','action','این\x20نوع\x20تنظیمات\x20از\x20قبل\x20موجود\x20است\x20یا\x20ورودی\x20نامعتبر\x20است.','8697408ixOfSp','number','clientHeight','destroy','11:30','13OnNNky','color','#search','03:15','click','4790BSCSVe','.delete-btn','top','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','text','Mitigation\x20Block','setupTypes','0.0','setup-type-item\x20','f-status','editingSetupTypeId','9DSxykJ','#confirm-modal','button','Silver\x20Bullet','map','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22delete-symbol-btn\x22\x20data-symbol=\x22','</strong></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>SUM\x20RR:\x20<strong\x20class=\x22num\x22>','خطا\x20در\x20پردازش\x20داده‌های\x20فایل\x20CSV:','isArray','setup-type-checkbox\x20','type','#stats','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>','has-comment','marginLeft','<tr\x20class=\x22week-header\x20','\x20را\x20حذف\x20کنید؟\x20این\x20عمل\x20بازگردانده\x20نخواهد\x20شد\x20و\x20ممکن\x20است\x20بر\x20داده‌های\x20جدول\x20تأثیر\x20بگذارد.','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>Trades:\x20','blur','min','groupByWeek','خطا\x20در\x20خواندن\x20فایل\x20CSV:','revokeObjectURL','defaults','</option>','T00:00:00',')\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22stats\x22\x20style=\x22border:0;\x20padding:0;\x20font-size:\x2012px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>Win%:\x20','dow','#image-zoom-modal','11:55','BSL','SSL','includes','dup','weekId','</strong></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>SL\x20%:\x20<strong\x20class=\x22num\x22>','innerHTML','sdp','2025-04-10','customSymbols','classList','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22delete-btn\x22\x20data-type=\x22','مثال:\x20EURUSD','createElement','max','toggle','toLowerCase','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22actions-cell\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22btn\x20ghost\x20','e.g.,\x202\x20/\x202.5','Data\x20saved\x20successfully.','</strong></span>','querySelectorAll','#equity-curve-chart','#exportCsv','<span\x20class=\x22chip\x20setup-chip\x22>','<span\x20class=\x27chip\x20zone\x27>','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22center\x22><input\x20type=\x22checkbox\x22\x20data-field=\x22win\x22\x20','doughnut','525600KXoLsV','getDate','killzone','H\x20Open\x20NY','sortKey','setDate','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22stat\x22>RR\x20Sum:\x20','error','Tues','#csvFile','<option\x20value=\x22\x22>همه</option>','placeholder','FVG','result','rows','#image-preview-container','field','sortDir','></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22center\x22><input\x20type=\x22checkbox\x22\x20data-field=\x22rf\x22\x20','outcome','Mon','chip\x20setup-chip','reduce','XAUUSD','</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22editable\x22\x20data-field=\x22setupTypes\x22><div\x20class=\x22setup-type-display-chips\x22>','addColorStop','32761IqOYpL','bt_symbols_v1','rrSum','filter','#clearFilters','padStart','none','en-CA','focus','value','#done-managing-symbols','toLocaleDateString','background','rgba(77,\x20212,\x20172,\x200)','></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22center\x22><input\x20type=\x22checkbox\x22\x20data-field=\x22sl\x22\x20','GBPUSD','has-image','dataset','\x20-\x20','بازنشانی\x20داده‌ها','07:45','Silver\x20bullet\x20LDN','سود\x20خالص\x20(R)\x20بر\x20اساس\x20روز','onclick','cursor','keydown'];_0x1c48=function(){return _0x4a4bc5;};return _0x1c48();}
+// Wrap all JavaScript code in DOMContentLoaded to ensure DOM is fully loaded
+  document.addEventListener('DOMContentLoaded', (event) => {
+    // ---- Data --------------------------------------------------------------
+    // لیست نمادهای پیش‌فرض
+    const defaultSymbols = ['EURUSD', 'GBPUSD', 'BTCUSD', 'XAUUSD'];
+
+    // لیست انواع تنظیمات پیش‌فرض
+    const initialSetupTypes = [
+      'FVG', 'CISD', 'MSS', '+OB', '-OB', 'IFVG', 'BPR', 'SMT', 'BB',
+      '3PD Array', 'BSL', 'SSL', 'Silver Bullet', 'High Asia', 'Low Asia',
+      'ITH', 'ITL', 'Unicorn', 'FS', 'TS', 'L Open NY', 'H Open NY',
+      'Mitigation Block', 'Propulsion Block', 'Rejection Block', 'WICK 50%'
+    ];
+
+    // نمونه داده‌های اولیه شامل ستون جدید 'symbol' و 'setupTypes' و 'image'
+    const sample = [
+      {id:1,date:'2025-04-02',dow:'Tues',killzone:'LDN',direction:'Long',sdp:'2 / 2.5',win:true,rf:false,sl:false,rr:2.45,time:'04:15', comment: '', symbol: 'EURUSD', setupTypes: ['FVG', 'BSL'], image: null},
+      {id:2,date:'2025-04-03',dow:'Wed',killzone:'LDN',direction:'Short',sdp:'',win:false,rf:true,sl:false,rr:null,time:'04:30', comment: 'Almost worked.', symbol: 'GBPUSD', setupTypes: ['CISD'], image: null},
+      {id:3,date:'2025-04-10',dow:'Wed',killzone:'NY',direction:'Long',sdp:'2 / 2.5',win:true,rf:false,sl:false,rr:4.24,time:'08:50', comment: '', symbol: 'BTCUSD', setupTypes: ['MSS', '+OB'], image: null},
+      {id:4,date:'2025-04-12',dow:'Fri',killzone:'NY',direction:'Short',sdp:'3.5 / 4',win:false,rf:true,sl:false,rr:null,time:'08:30', comment: '', symbol: 'EURUSD', setupTypes: ['Silver Bullet'], image: null},
+      {id:5,date:'2025-04-15',dow:'Mon',killzone:'NY',direction:'Long',sdp:'2 / 2.5',win:true,rf:false,sl:false,rr:3.22,time:'07:10', comment: 'Perfect setup.', symbol: 'GBPUSD', setupTypes: ['ITH', 'Unicorn'], image: null},
+      {id:6,date:'2025-04-16',dow:'Tues',killzone:'LDN',direction:'Short',sdp:'',win:false,rf:true,sl:false,rr:null,time:'03:15', comment: '', symbol: 'XAUUSD', setupTypes: ['BPR'], image: null},
+      {id:7,date:'2025-04-16',dow:'Tues',killzone:'NY',direction:'Long',sdp:'3.5 / 4',win:true,rf:false,sl:false,rr:5.92,time:'07:45', comment: '', symbol: 'BTCUSD', setupTypes: ['High Asia'], image: null},
+      {id:8,date:'2025-04-16',dow:'Tues',killzone:'LDN Close',direction:'Short',sdp:'',win:false,rf:true,sl:false,rr:null,time:'11:30', comment: '', symbol: 'EURUSD', setupTypes: ['L Open NY'], image: null},
+      {id:9,date:'2025-04-17',dow:'Tues',killzone:'LDN Close',direction:'Long',sdp:'',win:true,rf:false,sl:false,rr:null,time:'11:55', comment: '', symbol: 'GBPUSD', setupTypes: ['Propulsion Block'], image: null},
+      {id:10,date:'2025-04-24',dow:'Wed',killzone:'LDN',direction:'Long',sdp:'2 / 2.5',win:true,rf:false,sl:false,rr:2.65,time:'03:15', comment: '', symbol: 'XAUUSD', setupTypes: ['WICK 50%'], image: null}
+    ];
+
+    // کلید ذخیره‌سازی داده‌ها در Local Storage
+    const storeKey = 'bt_rows_v18'; // Changed key to avoid conflicts with old versions
+    const symbolsStoreKey = 'bt_symbols_v1'; 
+    const setupTypesStoreKey = 'bt_setup_types_v1'; // New key for setup types
+
+    const $ = sel => document.querySelector(sel);
+    const tableBody = $('#table-body');
+    const charts = {}; // To hold chart instances
+
+    // Modals
+    const commentModal = $('#comment-modal');
+    const manageSymbolsModal = $('#manage-symbols-modal');
+    const setupTypeSelectionModal = $('#setup-type-selection-modal');
+    const manageSetupTypesModal = $('#manage-setup-types-modal');
+    const confirmModal = $('#confirm-modal');
+    const imageZoomModal = $('#image-zoom-modal'); // New: Image zoom modal
+
+
+    // Input elements
+    const commentTextarea = $('#comment-textarea');
+    const newSymbolInput = $('#new-symbol-input');
+    const addSymbolBtn = $('#add-symbol-btn');
+    const symbolListContainer = $('#symbol-list-container');
+    const newSetupTypeInput = $('#new-setup-type-input');
+    const addNewSetupTypeBtn = $('#add-new-setup-type-btn');
+    const availableSetupTypesList = $('#available-setup-types-list');
+    const setupTypeCheckboxContainer = $('#setup-type-checkbox-container');
+    const fSetupTypeChipsContainer = $('#f-setup-type-chips');
+    const fSetupTypeInput = $('#f-setup-type-input'); // Hidden input for filter value
+
+    // New: Image elements in comment modal
+    const imageFileInput = $('#image-file-input');
+    const imagePreview = $('#image-preview');
+    const imagePreviewContainer = $('#image-preview-container');
+    const uploadImageBtn = $('#upload-image-btn');
+    const removeImageBtn = $('#remove-image-btn');
+    const zoomedImage = $('#zoomed-image'); // New: element for zoomed image
+    const imageZoomCloseBtn = $('#image-zoom-close-btn'); // New: close button for zoom modal
+
+
+    // Confirmation modal elements
+    const confirmTitle = $('#confirm-title');
+    const confirmMessage = $('#confirm-message');
+    const confirmOkBtn = $('#confirm-ok');
+    const confirmCancelBtn = $('#confirm-cancel');
+    const closeConfirmModalBtn = $('#close-confirm-modal');
+    let confirmResolve; // To hold resolve Promise for confirmation modal
+
+    // State management
+    const state = { 
+        rows: load() || sample, 
+        sortKey:'id', 
+        sortDir:'asc', 
+        groupByWeek: false,
+        collapsedWeeks: new Set(), 
+        editingCommentId: null, // Still used for tracking the trade being commented on
+        customSymbols: loadSymbols(),
+        availableSetupTypes: loadAvailableSetupTypes() || initialSetupTypes, // Load or use default setup types
+        editingSetupTypeId: null, // To track which row's setup types are being edited
+        filterSetupTypes: [] // Array of selected setup types for filtering
+    };
+
+    function load(){ try{
+        const loadedData = JSON.parse(localStorage.getItem(storeKey));
+        // Ensure that 'image' field exists and is initialized to null if not present
+        if (loadedData) {
+            return loadedData.map(row => ({
+                ...row,
+                image: row.image || null // Initialize image to null if undefined
+            }));
+        }
+        return null;
+    }catch(e){ console.error("Error loading rows from local storage:", e); return null; } }
+    function loadSymbols() { try { return JSON.parse(localStorage.getItem(symbolsStoreKey)) || []; } catch(e) { console.error("Error loading symbols from local storage:", e); return []; } }
+    function loadAvailableSetupTypes() { try { return JSON.parse(localStorage.getItem(setupTypesStoreKey)) || []; } catch(e) { console.error("Error loading setup types from local storage:", e); return []; } }
+
+    /**
+     * Cleans up the customSymbols list.
+     * Note: The cleanup for availableSetupTypes has been removed as it was causing persistence issues for newly added types.
+     * User-added setup types are now only removed explicitly via the delete button in the management modal.
+     */
+    function cleanupDataLists() {
+        // Cleanup customSymbols
+        const symbolsInUse = new Set(state.rows.map(r => r.symbol).filter(s => s));
+        state.customSymbols = state.customSymbols.filter(sym => 
+            defaultSymbols.includes(sym) || symbolsInUse.has(sym)
+        );
+        state.customSymbols.sort();
+    }
+
+    /**
+     * Gets all unique symbols from default, custom, and current rows.
+     * @returns {string[]} Sorted array of all unique symbols.
+     */
+    function getAllSymbols() {
+        const symbolsFromRows = new Set(state.rows.map(r => r.symbol).filter(s => s));
+        const allSymbols = new Set([...defaultSymbols, ...state.customSymbols, ...symbolsFromRows]);
+        return Array.from(allSymbols).sort();
+    }
+
+    /**
+     * Gets all unique setup types from initial, availableSetupTypes (user-added), and current rows.
+     * @returns {string[]} Sorted array of all unique setup types.
+     */
+    function getAllSetupTypes() {
+      const setupTypesFromRows = new Set();
+      state.rows.forEach(row => {
+          if (Array.isArray(row.setupTypes)) {
+              row.setupTypes.forEach(type => setupTypesFromRows.add(type));
+          }
+      });
+      // Combine initial (hardcoded), available (user-managed), and from-rows (from imports/existing data)
+      const allTypes = new Set([...initialSetupTypes, ...state.availableSetupTypes, ...setupTypesFromRows]);
+      return Array.from(allTypes).sort();
+    }
+
+    /**
+     * Saves current state to Local Storage.
+     */
+    function save(){ 
+        cleanupDataLists(); // Clean up symbols before saving
+        localStorage.setItem(storeKey, JSON.stringify(state.rows)); 
+        localStorage.setItem(symbolsStoreKey, JSON.stringify(state.customSymbols)); 
+        localStorage.setItem(setupTypesStoreKey, JSON.stringify(state.availableSetupTypes)); // Save setup types
+        const statusEl = $('#save-status');
+        statusEl.textContent = 'ذخیره شد!';
+        statusEl.classList.add('saved');
+        setTimeout(() => {
+            statusEl.textContent = 'آماده';
+            statusEl.classList.remove('saved');
+        }, 1000);
+        console.log("Data saved successfully."); // Debugging log
+    }
+
+    // Helper functions for date and style classes
+    function getWeekId(d) {
+      const date = new Date(d.getTime());
+      date.setHours(0, 0, 0, 0);
+      date.setDate(date.getDate() + 3 - (date.getDay() + 6) % 7);
+      const week1 = new Date(date.getFullYear(), 0, 4);
+      return date.getFullYear() + '-W' + String(1 + Math.round(((date.getTime() - week1.getTime()) / 86400000 - 3 + (week1.getDay() + 6) % 7) / 7)).padStart(2, '0');
+    }
+
+    function getWeekDateRange(weekId) {
+        const [year, week] = weekId.split('-W').map(Number);
+        const simple = new Date(year, 0, 1 + (week - 1) * 7);
+        const dow = simple.getDay();
+        const ISOweekStart = simple;
+        if (dow <= 4) ISOweekStart.setDate(simple.getDate() - simple.getDay() + 1);
+        else ISOweekStart.setDate(simple.getDate() + 8 - simple.getDay());
+        const ISOweekEnd = new Date(ISOweekStart);
+        ISOweekEnd.setDate(ISOweekEnd.getDate() + 6);
+        return `${fmtDate(ISOweekStart.toISOString().slice(0,10))} - ${fmtDate(ISOweekEnd.toISOString().slice(0,10))}`;
+    }
+
+    function fmtDate(iso){ if(!iso) return ''; const d=new Date(iso+'T00:00:00'); return d.toLocaleDateString('en-CA'); }
+    const killCls = k => {
+      if (k === 'LDN') return 'k-l';
+      if (k === 'NY') return 'k-ny';
+      if (k === 'LDN Close') return 'k-ldn-close';
+      if (k === 'Silver bullet LDN') return 'k-sb-ldn';
+      if (k === 'Silver bullet NY') return 'k-sb-ny';
+      return '';
+    };
+    const dirCls = d => d==='Long'? 'dir-long': 'dir-short';
+
+    /**
+     * Template for building each table row.
+     * @param {Object} r - The row data object.
+     * @param {boolean} isHidden - Whether the row should be hidden (for collapsed weeks).
+     * @returns {string} HTML string for a table row.
+     */
+    function rowTemplate(r, isHidden = false){
+      const style = isHidden ? 'style="display: none;"' : '';
+      const hasCommentClass = r.comment ? 'has-comment' : '';
+      const hasImageClass = r.image ? 'has-image' : ''; // New class for image indicator
+      const setupChips = Array.isArray(r.setupTypes) ? r.setupTypes.map(tag => `<span class="chip setup-chip">${tag}</span>`).join('') : '';
+
+      return `<tr class="fade-in trade-row" data-id="${r.id}" ${style}>
+        <td class="center num" data-field="id">${r.id}</td>
+        <td class="editable" data-field="symbol"><span class="chip">${r.symbol || ''}</span></td>
+        <td class="editable" data-field="setupTypes"><div class="setup-type-display-chips">${setupChips}</div></td> <!-- New column for setup types -->
+        <td class="editable" data-field="date">${fmtDate(r.date)}</td>
+        <td class="editable" data-field="dow"><span class="chip">${r.dow}</span></td>
+        <td class="editable" data-field="killzone"><span class="chip ${killCls(r.killzone)}">${r.killzone}</span></td>
+        <td class="editable" data-field="direction"><span class="chip ${dirCls(r.direction)}">${r.direction}</span></td>
+        <td class="editable" data-field="sdp">${r.sdp? `<span class='chip zone'>${r.sdp}</span>`:''}</td>
+        <td class="center"><input type="checkbox" data-field="win" ${r.win?'checked':''}></td>
+        <td class="center"><input type="checkbox" data-field="rf" ${r.rf?'checked':''}></td>
+        <td class="center"><input type="checkbox" data-field="sl" ${r.sl?'checked':''}></td>
+        <td class="center num editable" data-field="rr">${r.rr ?? ''}</td>
+        <td class="center editable" data-field="time">${r.time||''}</td>
+        <td class="center">
+          <div class="actions-cell">
+            <button class="btn ghost ${hasCommentClass} ${hasImageClass}" data-action="comment" title="یادداشت و عکس"><i class="fas fa-note-sticky"></i>${r.image ? ' <i class="fas fa-image" style="font-size: 0.8em;"></i>' : ''}</button>
+            <button class="btn" data-action="dup" title="کپی"><i class="fas fa-copy"></i></button>
+            <button class="btn" data-action="del" title="حذف"><i class="fas fa-trash-alt"></i></button>
+          </div>
+        </td>
+      </tr>`
+    }
+
+    /**
+     * Main render function to display the table and apply filters and sorting.
+     */
+    function render(){
+      const q=$('#search').value.trim().toLowerCase();
+      const fdow=$('#f-dow').value;
+      const fkill=$('#f-kill').value;
+      const fstat=$('#f-status').value;
+      const fsymbol=$('#f-symbol').value; 
+      // Filter by setup types: all selected filter tags must be present in the row's setupTypes
+      const fSetupTypes = state.filterSetupTypes; 
+
+      let list = state.rows.filter(r=>{
+        const inText = !q || [r.dow,r.killzone,r.direction,r.sdp,fmtDate(r.date),r.time,String(r.rr), r.symbol, (r.setupTypes || []).join(' ')].join(' ').toLowerCase().includes(q);
+        const okDow=!fdow||r.dow===fdow;
+        const okKill=!fkill||r.killzone===fkill;
+        const okSymbol=!fsymbol||r.symbol===fsymbol; 
+        const okStat= (fstat==='win' && r.win) || (fstat==='rf' && r.rf) || (fstat==='sl' && r.sl) || fstat==='';
+        // Check if all selected filter setup types are present in the row's setupTypes
+        const okSetupType = fSetupTypes.length === 0 || fSetupTypes.every(tag => (r.setupTypes || []).includes(tag));
+
+        return inText && okDow && okKill && okStat && okSymbol && okSetupType; 
+      });
+
+      list.sort((a,b)=>{ 
+          const k=state.sortKey; 
+          const d=state.sortDir==='asc'?1:-1; 
+          const va=a[k]??''; 
+          const vb=b[k]??''; // Fixed: Changed b[k??''] to b[k]
+          return (va>vb?1:va<vb?-1:0)*d; 
+      });
+      
+      if (state.groupByWeek) {
+          const grouped = list.reduce((acc, row) => {
+              const weekId = getWeekId(new Date(row.date));
+              if (!acc[weekId]) acc[weekId] = [];
+              acc[weekId].push(row);
+              return acc;
+          }, {});
+
+          let html = '';
+          const sortedWeeks = Object.keys(grouped).sort().reverse();
+
+          for (const weekId of sortedWeeks) {
+              const weekTrades = grouped[weekId];
+              const stats = getStatsForList(weekTrades);
+              const isCollapsed = state.collapsedWeeks.has(weekId);
+              html += `<tr class="week-header ${isCollapsed ? 'collapsed' : ''}" data-week-id="${weekId}">
+                          <td colspan="14"> <!-- Updated colspan to 14 -->
+                              <div style="display:flex; justify-content: space-between; align-items: center;">
+                                  <span>
+                                      <i class="fas fa-chevron-down chevron"></i>
+                                      <strong>هفته ${weekId.split('-W')[1]}</strong> (${getWeekDateRange(weekId)})
+                                  </span>
+                                  <div class="stats" style="border:0; padding:0; font-size: 12px;">
+                                      <span class="stat">Win%: ${stats.winPercent}</span>
+                                      <span class="stat">RR Sum: ${stats.rrSum}</span>
+                                      <span class="stat">Trades: ${stats.total}</span>
+                                  </div>
+                              </div>
+                          </td>
+                      </tr>
+                  ${weekTrades.map(trade => rowTemplate(trade, isCollapsed)).join('')}`;
+          }
+          tableBody.innerHTML = html;
+      } else {
+          tableBody.innerHTML = list.map(row => rowTemplate(row, false)).join('');
+      }
+
+      calcFooter(list);
+      markSortHeader();
+      renderCharts(list);
+    }
+    
+    function getStatsForList(list) {
+        const total = list.length;
+        if (total === 0) return { winPercent: '0.0', rrSum: '0.00', total: 0 };
+        const wins = list.filter(r => r.win).length;
+        const rrSum = list.reduce((s, r) => (r.win ? s + (Number(r.rr) || 0) : s), 0);
+        return {
+            winPercent: ((wins / total) * 100).toFixed(1),
+            rrSum: rrSum.toFixed(2),
+            total: total
+        };
+    }
+
+    function calcFooter(list){
+      const total=list.length;
+      if (total === 0) {
+          $('#stats').innerHTML = `<span class="stat">داده‌ای برای نمایش وجود ندارد</span>`;
+          return;
+      }
+      const wins=list.filter(r=>r.win).length, rfs=list.filter(r=>r.rf).length, sls=list.filter(r=>r.sl).length;
+      const rrSum=list.reduce((s,r)=>(r.win ? s + (Number(r.rr) || 0) : s), 0);
+      
+      const dates = list.map(r => new Date(r.date)).filter(d => !isNaN(d));
+      let rangeDays = 0;
+      if (dates.length > 0) {
+          const min=new Date(Math.min.apply(null,dates)); 
+          const max=new Date(Math.max.apply(null,dates));
+          rangeDays = Math.round((max - min) / 86400000) + 1;
+      }
+
+      $('#stats').innerHTML=`
+        <span class="stat">RANGE: <strong class="num">${rangeDays}</strong> days</span>
+        <span class="stat">Win %: <strong class="num">${((wins/total)*100).toFixed(1)}</strong></span>
+        <span class="stat">R‑F %: <strong class="num">${((rfs/total)*100).toFixed(1)}</strong></span>
+        <span class="stat">SL %: <strong class="num">${((sls/total)*100).toFixed(1)}</strong></span>
+        <span class="stat">SUM RR: <strong class="num">${rrSum.toFixed(2)}</strong></span>
+        <span class="stat">تعداد: <strong class="num">${list.length}</strong></span>`
+    }
+
+    function markSortHeader(){
+      document.querySelectorAll('#grid thead th').forEach(th=> th.classList.remove('sort-asc','sort-desc'));
+      const th = document.querySelector(`#grid thead th[data-key="${state.sortKey}"]`);
+      if(th) th.classList.add(state.sortDir==='asc'?'sort-asc':'sort-desc');
+    }
+
+    const selectOptions = { 
+        dow:['Mon','Tues','Wed','Thu','Fri'], 
+        killzone:['LDN','NY','LDN Close', 'Silver bullet LDN', 'Silver bullet NY'], 
+        direction:['Long','Short'] 
+    };
+    /**
+     * Function to start editing a table cell.
+     * @param {HTMLElement} td - The table cell to edit.
+     */
+    function startEdit(td){
+      const tr=td.closest('tr');
+      const id=+tr.dataset.id;
+      const row=state.rows.find(r=>r.id===id);
+      const field=td.dataset.field;
+      if(!field || td.querySelector('.cell-editor')) return;
+
+      const finish=(commit)=>{
+          if(commit){
+              const val = input.value;
+              if(field==='date'){
+                  row.date = val || row.date;
+                  if(row.date){
+                      const date = new Date(row.date + 'T00:00:00');
+                      row.dow = date.toLocaleDateString('en-US', { weekday: 'short' });
+                  }
+              } else if(field==='rr'){
+                  row.rr = val? Number(val): null;
+              } else if(field==='symbol') { 
+                  row[field] = val.toUpperCase().trim(); 
+                  if (!defaultSymbols.includes(row[field]) && !state.customSymbols.includes(row[field])) {
+                      state.customSymbols.push(row[field]);
+                      state.customSymbols.sort();
+                  }
+              } else if (field === 'setupTypes') {
+                  // This field is handled by a separate modal, so no direct input value here.
+                  // The modal's save logic will update row.setupTypes.
+              }
+              else { row[field]=val; }
+              save(); 
+              render();
+          } else {
+              render();
+          }
+      };
+
+      let input;
+      if(field==='date'){
+          input=document.createElement('input'); input.type='date'; input.value=row.date;
+      }else if(field==='rr'){
+          input=document.createElement('input'); input.type='number'; input.step='0.01'; input.value=row.rr ?? '';
+      }else if(field==='time'){
+          input=document.createElement('input'); input.type='time'; input.value=row.time||'';
+      }else if(field==='sdp'){
+          input=document.createElement('input'); input.type='text'; input.placeholder='e.g., 2 / 2.5'; input.value=row.sdp||'';
+      }else if(field==='symbol'){ 
+          input=document.createElement('input'); input.type='text'; input.value=row.symbol||'';
+          input.placeholder = 'مثال: EURUSD';
+      }else if(field === 'setupTypes') {
+          state.editingSetupTypeId = id; // Store the ID of the row being edited
+          openSetupTypeSelectionModal(row.setupTypes || []); // Pass current setup types
+          return; // Don't create an input element directly in the cell
+      }else if(selectOptions[field]){
+          input=document.createElement('select');
+          selectOptions[field].forEach(opt=>{ const o=document.createElement('option'); o.value=opt; o.textContent=opt; if(opt===row[field]) o.selected=true; input.appendChild(o); });
+      } else return;
+
+      input.className='cell-editor'; td.innerHTML=''; td.appendChild(input); input.focus(); input.select?.();
+      input.addEventListener('keydown',ev=>{ if(ev.key==='Enter') finish(true); else if(ev.key==='Escape') finish(false); });
+      input.addEventListener('blur',()=>finish(true));
+    }
+    
+    // Event listener for clicks on the table (delete, copy, edit, comment)
+    tableBody.addEventListener('click',e=>{ 
+      const weekHeader = e.target.closest('.week-header');
+      if (weekHeader) {
+          const weekId = weekHeader.dataset.weekId;
+          if (state.collapsedWeeks.has(weekId)) {
+              state.collapsedWeeks.delete(weekId);
+          } else {
+              state.collapsedWeeks.add(weekId);
+          }
+          render(); // Re-render to show/hide correctly
+          return;
+      }
+
+      const tr=e.target.closest('tr.trade-row'); if(!tr) return; const id=+tr.dataset.id; const row=state.rows.find(r=>r.id===id); if(!row) return; 
+      
+      const actionBtn = e.target.closest('button[data-action]');
+      if(actionBtn){ 
+          const action = actionBtn.dataset.action; 
+          if(action==='del'){ 
+              showConfirmModal('تأیید حذف', 'آیا مطمئن هستید که می‌خواهید این ردیف را حذف کنید؟').then(result => {
+                  if (result) {
+                      state.rows = state.rows.filter(r=>r.id!==id); 
+                      save(); 
+                      render(); 
+                  }
+              });
+              return; 
+          } 
+          if(action==='dup'){ 
+              const copy=JSON.parse(JSON.stringify(row)); 
+              copy.id=nextId(); 
+              // Ensure setupTypes is copied as a new array, not a reference
+              copy.setupTypes = Array.isArray(row.setupTypes) ? [...row.setupTypes] : [];
+              copy.image = row.image || null; // Copy image data
+              state.rows.push(copy); 
+              save(); 
+              buildOptions(); // Rebuild options to ensure new symbols/setups are caught
+              render(); 
+              return; 
+          } 
+          if(action==='comment'){ 
+              console.log("Comment button clicked for ID:", id); // Debugging log
+              openCommentModal(id); 
+              return; 
+          }
+      }
+      
+      if(e.target.matches('input[type="checkbox"]')){ 
+          const f=e.target.dataset.field; const isChecked = e.target.checked; row[f] = isChecked; 
+          if(isChecked){ 
+              if(f === 'win'){ row.rf = false; row.sl = false; } 
+              if(f === 'rf'){ row.win = false; row.sl = false; } 
+              if(f === 'sl'){ row.win = false; row.rf = false; } 
+          } 
+          save(); render(); return; 
+      } 
+      
+      const editableTd = e.target.closest('td.editable');
+      if (editableTd) {
+          startEdit(editableTd);
+      }
+    });
+    
+    // Function to generate the next available ID for new rows
+    function nextId(){ return (state.rows.reduce((m,r)=>Math.max(m,r.id),0) || 0) + 1 }
+    
+    // Event listeners for table header sorting
+    document.querySelectorAll('#grid th[data-key]').forEach(th=>{ // Changed to select all th directly, not just thead th
+      th.style.cursor='pointer'; 
+      th.addEventListener('click',()=>{ 
+          const k=th.dataset.key; 
+          if (k === 'setupTypes') { // Prevent sorting by setupTypes as it's an array
+              return; 
+          }
+          state.sortDir = state.sortKey===k && state.sortDir==='asc'?'desc':'asc'; 
+          state.sortKey=k; 
+          render(); 
+      }); 
+    });
+    
+    // Event listeners for filters
+    // Note: f-setup-type-input is handled by custom chip logic below
+    ['search','f-dow','f-kill','f-status', 'f-symbol'].forEach(id=> $("#"+id).addEventListener('input', render));
+
+    /**
+     * Function to build filter options (especially for symbol and setup type filters).
+     */
+    function buildOptions(){
+      const dows=[...new Set(state.rows.map(r=>r.dow))];
+      const kills=[...new Set(state.rows.map(r=>r.killzone))];
+      
+      cleanupDataLists(); // Clean up symbols before building options
+      const symbols = getAllSymbols(); 
+      const allSetupTypes = getAllSetupTypes(); // Get all unique setup types
+
+      $('#f-dow').innerHTML = '<option value="">همه</option>' + dows.map(x=>`<option>${x}</option>`).join('');
+      $('#f-kill').innerHTML = '<option value="">همه</option>' + kills.map(x=>`<option>${x}</option>`).join('');
+      $('#f-symbol').innerHTML = '<option value="">همه</option>' + symbols.map(x=>`<option>${x}</option>`).join('');
+      
+      // Render filter chips for setup types
+      renderFilterSetupTypeChips();
+    }
+
+    // Render filter chips for setup types
+    function renderFilterSetupTypeChips() {
+      fSetupTypeChipsContainer.innerHTML = '';
+      if (state.filterSetupTypes.length === 0) {
+          fSetupTypeChipsContainer.innerHTML = '<span style="color: var(--sub);">همه</span>';
+      } else {
+          state.filterSetupTypes.forEach(tag => {
+              const chip = document.createElement('span');
+              chip.className = 'chip setup-chip';
+              chip.textContent = tag;
+              const removeBtn = document.createElement('button');
+              removeBtn.innerHTML = '&times;';
+              removeBtn.style.background = 'none';
+              removeBtn.style.border = 'none';
+              removeBtn.style.color = 'inherit';
+              removeBtn.style.marginLeft = '5px';
+              removeBtn.style.cursor = 'pointer';
+              removeBtn.onclick = (e) => {
+                  e.stopPropagation();
+                  state.filterSetupTypes = state.filterSetupTypes.filter(t => t !== tag);
+                  fSetupTypeInput.value = state.filterSetupTypes.join(','); // Update hidden input
+                  renderFilterSetupTypeChips(); // Re-render chips
+                  render(); // Re-render table with new filter
+              };
+              chip.appendChild(removeBtn);
+              fSetupTypeChipsContainer.appendChild(chip);
+          });
+      }
+      // Update the hidden input value for filtering
+      fSetupTypeInput.value = state.filterSetupTypes.join(',');
+    }
+
+    // Event listener for clicking the filter setup type chips container (to open selection modal)
+    fSetupTypeChipsContainer.addEventListener('click', () => {
+        openSetupTypeSelectionModal(state.filterSetupTypes, true); // Pass current filter types, and indicate it's for filtering
+    });
+
+
+    // Event listener for "Add New Row" button
+    $('#addRow').addEventListener('click',()=>{ 
+        const lastDate = state.rows[state.rows.length-1]?.date || new Date().toISOString().slice(0,10); 
+        const newDate = new Date(lastDate + 'T00:00:00');
+        const newDow = newDate.toLocaleDateString('en-US', { weekday: 'short' });
+        const allSymbols = getAllSymbols();
+        const defaultNewSymbol = allSymbols.length > 0 ? allSymbols[0] : 'EURUSD';
+        state.rows.push({id:nextId(),date:lastDate,dow:newDow,killzone:'LDN',direction:'Long',sdp:'',win:false,rf:false,sl:false,rr:null,time:'', comment:'', symbol: defaultNewSymbol, setupTypes: [], image: null}); 
+        save(); buildOptions(); render(); 
+    });
+
+    // Event listener for "Reset" button
+    $('#reset').addEventListener('click',()=>{ 
+        showConfirmModal('بازنشانی داده‌ها', 'آیا مطمئن هستید؟ تمام داده‌های فعلی با نمونه اولیه جایگزین خواهد شد.').then(result => {
+            if (result) {
+                state.rows = JSON.parse(JSON.stringify(sample)); 
+                state.customSymbols = []; 
+                state.availableSetupTypes = JSON.parse(JSON.stringify(initialSetupTypes)); // Reset setup types to initial
+                state.filterSetupTypes = []; // Clear filter
+                save(); 
+                buildOptions(); 
+                render(); 
+            }
+        });
+    });
+    
+    // Event listener for "Clear All" button
+    $('#clearAll').addEventListener('click', () => {
+        showConfirmModal('پاک کردن همه داده‌ها', 'آیا مطمئن هستید که می‌خواهید تمام داده‌ها و نمادهای سفارشی را پاک کنید؟ این عمل غیرقابل بازگشت است.').then(result => {
+            if (result) {
+                state.rows = []; 
+                state.customSymbols = []; 
+                state.availableSetupTypes = JSON.parse(JSON.stringify(initialSetupTypes)); // Reset setup types to initial
+                state.filterSetupTypes = []; // Clear filter
+                save();
+                buildOptions();
+                render();
+            }
+        });
+    });
+
+    // Event listener for "Export CSV" button
+    $('#exportCsv').addEventListener('click', () => {
+        const csv = Papa.unparse(state.rows, { header: true });
+        const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'backtest.csv';
+        a.click();
+        URL.revokeObjectURL(url);
+    });
+
+    // Event listener for "Import CSV" button
+    $('#importCsv').addEventListener('click',()=> $('#csvFile').click());
+    $('#csvFile').addEventListener('change', e=>{ 
+        const file=e.target.files[0]; 
+        if(!file) return; 
+        
+        showConfirmModal('ورود فایل CSV', 'آیا مطمئن هستید؟ تمام داده‌های فعلی با محتوای فایل جایگزین خواهد شد.').then(result => {
+            if (result) {
+                Papa.parse(file, {
+                    header: true,
+                    skipEmptyLines: true,
+                    complete: function(results) {
+                        try {
+                            const items = results.data.map(o => ({
+                                id: Number(o.id) || 0,
+                                date: o.date || '',
+                                dow: o.dow || '',
+                                killzone: o.killzone || '',
+                                direction: o.direction || '',
+                                sdp: o.sdp || '',
+                                win: String(o.win).toLowerCase() === 'true',
+                                rf: String(o.rf).toLowerCase() === 'true',
+                                sl: String(o.sl).toLowerCase() === 'true',
+                                rr: o.rr ? Number(o.rr) : null,
+                                time: o.time || '',
+                                comment: o.comment || '',
+                                symbol: o.symbol ? String(o.symbol).toUpperCase().trim() : 'EURUSD',
+                                setupTypes: o.setupTypes ? String(o.setupTypes).split(',').map(s => s.trim()).filter(s => s !== '') : [],
+                                image: o.image || null // Import image data
+                            }));
+                            state.rows = items;
+                            // Collect and add new symbols/setupTypes from imported data
+                            const importedSymbols = new Set(items.map(item => item.symbol).filter(s => s));
+                            importedSymbols.forEach(s => {
+                                if (!defaultSymbols.includes(s) && !state.customSymbols.includes(s)) {
+                                    state.customSymbols.push(s);
+                                }
+                            });
+
+                            const importedSetupTypes = new Set();
+                            items.forEach(item => {
+                                if (Array.isArray(item.setupTypes)) {
+                                    item.setupTypes.forEach(type => importedSetupTypes.add(type));
+                                }
+                            });
+                            importedSetupTypes.forEach(type => {
+                                // Add to availableSetupTypes only if it's genuinely new
+                                if (!getAllSetupTypes().includes(type)) {
+                                    state.availableSetupTypes.push(type);
+                                }
+                            });
+                            state.availableSetupTypes.sort();
+
+
+                            save();
+                            buildOptions();
+                            render();
+                        } catch (err) {
+                            console.error("خطا در پردازش داده‌های فایل CSV:", err);
+                            showConfirmModal('خطا', 'خطا در پردازش داده‌های فایل CSV.', false); 
+                        }
+                    },
+                    error: function(err) {
+                        console.error("خطا در خواندن فایل CSV:", err);
+                        showConfirmModal('خطا', 'خطا در خواندن فایل CSV. لطفا از صحت فایل اطمینان حاصل کنید.', false);
+                    }
+                });
+            }
+        });
+        e.target.value = ''; // Reset file input
+    });
+
+    // Event listener for "Clear Filters" button
+    $('#clearFilters').addEventListener('click', () => {
+        $('#search').value = '';
+        $('#f-dow').value = '';
+        $('#f-kill').value = '';
+        $('#f-status').value = '';
+        $('#f-symbol').value = ''; 
+        state.filterSetupTypes = []; // Clear setup type filter
+        buildOptions(); // Re-render filter chips
+        render();
+    });
+
+    // Event listener for "Group by Week" toggle
+    $('#group-by-week').addEventListener('change', (e) => { 
+        state.groupByWeek = e.target.checked; 
+        if (state.groupByWeek) {
+            state.collapsedWeeks = new Set(state.rows.map(r => getWeekId(new Date(r.date))));
+        }
+        render(); 
+    });
+
+    // ---- Comment Modal Logic (including Image Attachment) ------------------------------------------------
+
+    /**
+     * Opens the comment modal for a specific trade.
+     * @param {number} tradeId - The ID of the trade whose comment/image is to be edited.
+     */
+    function openCommentModal(tradeId) {
+        state.editingCommentId = tradeId;
+        const row = state.rows.find(r => r.id === tradeId);
+        if (row) {
+            commentTextarea.value = row.comment || '';
+            
+            // Handle image display
+            if (row.image) {
+                imagePreview.src = row.image;
+                imagePreview.style.display = 'block';
+                imagePreviewContainer.style.display = 'block';
+                removeImageBtn.style.display = 'inline-flex';
+                uploadImageBtn.textContent = 'تغییر عکس';
+            } else {
+                imagePreview.src = '#';
+                imagePreview.style.display = 'none';
+                imagePreviewContainer.style.display = 'none';
+                removeImageBtn.style.display = 'none';
+                uploadImageBtn.textContent = 'آپلود عکس';
+            }
+            imageFileInput.value = ''; // Clear file input
+            commentModal.classList.add('visible');
+        } else {
+            console.error("Trade with ID", tradeId, "not found for commenting.");
+        }
+    }
+
+    // Event listeners for comment modal
+    $('#close-comment-modal').addEventListener('click', () => commentModal.classList.remove('visible'));
+    $('#cancel-comment').addEventListener('click', () => commentModal.classList.remove('visible'));
+    commentModal.addEventListener('click', (e) => {
+        if (e.target === commentModal) {
+            commentModal.classList.remove('visible');
+        }
+    });
+
+    $('#save-comment').addEventListener('click', () => {
+        if (state.editingCommentId !== null) {
+            const row = state.rows.find(r => r.id === state.editingCommentId);
+            row.comment = commentTextarea.value;
+            // Image data is already updated by the file input change listener
+            save();
+            render();
+        }
+        commentModal.classList.remove('visible');
+    });
+
+    // New: Image upload and removal listeners
+    uploadImageBtn.addEventListener('click', () => {
+        imageFileInput.click(); // Trigger the hidden file input
+    });
+
+    imageFileInput.addEventListener('change', (e) => {
+        const file = e.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = (readEvent) => {
+                const base64Image = readEvent.target.result;
+                if (state.editingCommentId !== null) {
+                    const row = state.rows.find(r => r.id === state.editingCommentId);
+                    row.image = base64Image;
+                    imagePreview.src = base64Image;
+                    imagePreview.style.display = 'block';
+                    imagePreviewContainer.style.display = 'block';
+                    removeImageBtn.style.display = 'inline-flex';
+                    uploadImageBtn.textContent = 'تغییر عکس';
+                }
+            };
+            reader.readAsDataURL(file); // Convert image to Base64
+        }
+    });
+
+    removeImageBtn.addEventListener('click', () => {
+        showConfirmModal('تأیید حذف عکس', 'آیا مطمئن هستید که می‌خواهید این عکس را حذف کنید؟').then(result => {
+            if (result) {
+                if (state.editingCommentId !== null) {
+                    const row = state.rows.find(r => r.id === state.editingCommentId);
+                    row.image = null; // Remove image data
+                    imagePreview.src = '#';
+                    imagePreview.style.display = 'none';
+                    imagePreviewContainer.style.display = 'none';
+                    removeImageBtn.style.display = 'none';
+                    uploadImageBtn.textContent = 'آپلود عکس';
+                }
+            }
+        });
+    });
+
+    // New: Image zoom functionality
+    imagePreview.addEventListener('click', () => {
+        if (imagePreview.src && imagePreview.src !== window.location.href) { // Ensure there's an actual image
+            zoomedImage.src = imagePreview.src;
+            imageZoomModal.classList.add('visible');
+        }
+    });
+
+    imageZoomCloseBtn.addEventListener('click', () => {
+        imageZoomModal.classList.remove('visible');
+    });
+
+    imageZoomModal.addEventListener('click', (e) => {
+        if (e.target === imageZoomModal || e.target === zoomedImage) {
+            imageZoomModal.classList.remove('visible');
+        }
+    });
+    
+    // ---- Manage Symbols Modal Logic -----------------------------------------
+    $('#manage-symbols-btn').addEventListener('click', openManageSymbolsModal);
+    $('#close-manage-symbols-modal').addEventListener('click', closeManageSymbolsModal);
+    $('#done-managing-symbols').addEventListener('click', closeManageSymbolsModal);
+    manageSymbolsModal.addEventListener('click', (e) => {
+        if (e.target === manageSymbolsModal) { 
+            closeManageSymbolsModal();
+        }
+    });
+
+    function openManageSymbolsModal() {
+        renderSymbolList(); 
+        manageSymbolsModal.classList.add('visible');
+        newSymbolInput.focus();
+    }
+
+    function closeManageSymbolsModal() {
+        manageSymbolsModal.classList.remove('visible');
+        save(); 
+        buildOptions(); 
+        render(); 
+    }
+
+    function renderSymbolList() {
+        symbolListContainer.innerHTML = '';
+        const allUniqueSymbols = getAllSymbols(); 
+        // Filter out empty strings before sorting to avoid weird ordering
+        const filteredSymbols = allUniqueSymbols.filter(symbol => symbol.trim() !== '');
+
+        filteredSymbols.forEach(symbol => {
+            const isDefault = defaultSymbols.includes(symbol);
+            const symbolItem = document.createElement('div');
+            symbolItem.className = `symbol-item ${isDefault ? 'default-symbol' : ''}`;
+            symbolItem.innerHTML = `
+                <span>${symbol}</span>
+                <button class="delete-symbol-btn" data-symbol="${symbol}" ${isDefault ? 'disabled' : ''}>
+                    <i class="fas fa-times"></i>
+                </button>
+            `;
+            symbolListContainer.appendChild(symbolItem);
+        });
+    }
+
+    addSymbolBtn.addEventListener('click', addSymbolFromModal);
+    newSymbolInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+            addSymbolFromModal();
+        }
+    });
+
+    function addSymbolFromModal() {
+        const symbol = newSymbolInput.value.toUpperCase().trim();
+        if (symbol && !defaultSymbols.includes(symbol) && !state.customSymbols.includes(symbol)) { 
+            state.customSymbols.push(symbol);
+            state.customSymbols.sort();
+            newSymbolInput.value = ''; 
+            renderSymbolList(); 
+        } else if (symbol) {
+            showConfirmModal('خطا', 'این نماد از قبل موجود است یا ورودی نامعتبر است.', false); 
+        }
+    }
+
+    symbolListContainer.addEventListener('click', (e) => {
+        const deleteBtn = e.target.closest('.delete-symbol-btn');
+        if (deleteBtn && !deleteBtn.disabled) { 
+            const symbol = deleteBtn.dataset.symbol;
+            deleteSymbol(symbol);
+        }
+    });
+
+    function deleteSymbol(symbolToDelete) {
+        showConfirmModal('تأیید حذف نماد', `آیا مطمئن هستید که می‌خواهید نماد ${symbolToDelete} را حذف کنید؟ این عمل بازگردانده نخواهد شد و ممکن است بر داده‌های جدول تأثیر بگذارد.`).then(result => {
+            if (result) {
+                state.customSymbols = state.customSymbols.filter(sym => sym !== symbolToDelete);
+                state.rows.forEach(row => {
+                    if (row.symbol === symbolToDelete) {
+                        row.symbol = ''; 
+                    }
+                });
+                renderSymbolList(); 
+            }
+        });
+    }
+
+    // ---- Setup Type Selection Modal Logic (for editing a trade's setup types) ----
+    let currentEditingSetupTypes = []; // Temporary array to hold selections while modal is open
+    let isFilterSelection = false; // Flag to determine if modal is for filtering or editing a trade
+
+    /**
+     * Opens the setup type selection modal.
+     * @param {string[]} selectedTypes - The array of currently selected setup types for the trade/filter.
+     * @param {boolean} forFilter - True if this modal is for selecting filter types, false for editing a trade.
+     */
+    function openSetupTypeSelectionModal(selectedTypes, forFilter = false) {
+        currentEditingSetupTypes = [...selectedTypes]; // Copy to avoid direct modification
+        isFilterSelection = forFilter;
+        renderSetupTypeCheckboxes();
+        setupTypeSelectionModal.classList.add('visible');
+    }
+
+    function closeSetupTypeSelectionModal() {
+        setupTypeSelectionModal.classList.remove('visible');
+    }
+
+    function renderSetupTypeCheckboxes() {
+        setupTypeCheckboxContainer.innerHTML = '';
+        const allAvailableTypes = getAllSetupTypes(); // Get all available types
+        // Filter out empty strings before sorting to avoid weird ordering
+        const filteredSetupTypes = allAvailableTypes.filter(type => type.trim() !== '');
+
+        filteredSetupTypes.forEach(type => {
+            const isSelected = currentEditingSetupTypes.includes(type);
+            const checkboxLabel = document.createElement('label');
+            checkboxLabel.className = `setup-type-checkbox ${isSelected ? 'selected' : ''}`;
+            checkboxLabel.innerHTML = `
+                <input type="checkbox" value="${type}" ${isSelected ? 'checked' : ''}>
+                ${type}
+            `;
+            checkboxLabel.addEventListener('click', (e) => {
+                // Toggle selection
+                const checkbox = checkboxLabel.querySelector('input');
+                checkbox.checked = !checkbox.checked; // Manually toggle
+                if (checkbox.checked) {
+                    if (!currentEditingSetupTypes.includes(type)) {
+                        currentEditingSetupTypes.push(type);
+                    }
+                } else {
+                    currentEditingSetupTypes = currentEditingSetupTypes.filter(t => t !== type);
+                }
+                checkboxLabel.classList.toggle('selected', checkbox.checked);
+            });
+            setupTypeCheckboxContainer.appendChild(checkboxLabel);
+        });
+    }
+
+    $('#save-setup-type-selection').addEventListener('click', () => {
+        if (isFilterSelection) {
+            state.filterSetupTypes = [...currentEditingSetupTypes];
+            renderFilterSetupTypeChips(); // Update filter chips display
+            render(); // Re-render table with new filter
+        } else if (state.editingSetupTypeId !== null) {
+            const row = state.rows.find(r => r.id === state.editingSetupTypeId);
+            row.setupTypes = [...currentEditingSetupTypes]; // Update the trade's setup types
+            save(); // Save changes
+            render(); // Re-render table
+        }
+        closeSetupTypeSelectionModal();
+    });
+
+    $('#cancel-setup-type-selection').addEventListener('click', closeSetupTypeSelectionModal);
+    $('#close-setup-type-selection-modal').addEventListener('click', closeSetupTypeSelectionModal);
+    setupTypeSelectionModal.addEventListener('click', (e) => {
+        if (e.target === setupTypeSelectionModal) {
+            closeSetupTypeSelectionModal();
+        }
+    });
+
+    // ---- Manage Setup Types Modal Logic (for adding/removing available setup types) ----
+    $('#manage-setup-types-btn').addEventListener('click', openManageSetupTypesModal);
+    $('#close-manage-setup-types-modal').addEventListener('click', closeManageSetupTypesModal);
+    $('#done-managing-setup-types').addEventListener('click', closeManageSetupTypesModal);
+    manageSetupTypesModal.addEventListener('click', (e) => {
+        if (e.target === manageSetupTypesModal) {
+            closeManageSetupTypesModal();
+        }
+    });
+
+    function openManageSetupTypesModal() {
+        renderAvailableSetupTypesList();
+        manageSetupTypesModal.classList.add('visible');
+        newSetupTypeInput.focus();
+    }
+
+    function closeManageSetupTypesModal() {
+        manageSetupTypesModal.classList.remove('visible');
+        save(); // Save changes made in this modal
+        buildOptions(); // Rebuild options for all filters (including setup types)
+        render(); // Re-render table
+    }
+
+    function renderAvailableSetupTypesList() {
+        availableSetupTypesList.innerHTML = '';
+        const allCurrentAvailableTypes = getAllSetupTypes(); // Get all types including those from trades
+        // Filter out empty strings before sorting to avoid weird ordering
+        const filteredAvailableTypes = allCurrentAvailableTypes.filter(type => type.trim() !== '');
+
+
+        filteredAvailableTypes.forEach(type => {
+            const isInitial = initialSetupTypes.includes(type);
+            const typeItem = document.createElement('div');
+            typeItem.className = `setup-type-item ${isInitial ? 'default-type' : ''}`;
+            typeItem.innerHTML = `
+                <span>${type}</span>
+                <button class="delete-btn" data-type="${type}" ${isInitial ? 'disabled' : ''}>
+                    <i class="fas fa-times"></i>
+                </button>
+            `;
+            availableSetupTypesList.appendChild(typeItem);
+        });
+    }
+
+    addNewSetupTypeBtn.addEventListener('click', addAvailableSetupType);
+    newSetupTypeInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+            addAvailableSetupType();
+        }
+    });
+
+    function addAvailableSetupType() {
+        const type = newSetupTypeInput.value.toUpperCase().trim();
+        // Check if the type already exists in the comprehensive list of all setup types
+        if (type && !getAllSetupTypes().includes(type)) {
+            state.availableSetupTypes.push(type); // Add to the user-managed available types
+            state.availableSetupTypes.sort();
+            newSetupTypeInput.value = '';
+            renderAvailableSetupTypesList(); // Re-render the list in the modal
+        } else if (type) {
+            showConfirmModal('خطا', 'این نوع تنظیمات از قبل موجود است یا ورودی نامعتبر است.', false);
+        }
+    }
+
+    availableSetupTypesList.addEventListener('click', (e) => {
+        const deleteBtn = e.target.closest('.delete-btn');
+        if (deleteBtn && !deleteBtn.disabled) {
+            const type = deleteBtn.dataset.type;
+            deleteAvailableSetupType(type);
+        }
+    });
+
+    function deleteAvailableSetupType(typeToDelete) {
+        showConfirmModal('تأیید حذف نوع تنظیمات', `آیا مطمئن هستید که می‌خواهید نوع تنظیمات ${typeToDelete} را حذف کنید؟ این عمل بازگردانده نخواهد شد و ممکن است بر داده‌های جدول تأثیر بگذارد.`).then(result => {
+            if (result) {
+                // Remove from the user-managed available types
+                state.availableSetupTypes = state.availableSetupTypes.filter(type => type !== typeToDelete);
+                // Also remove from any rows that explicitly use this setup type
+                state.rows.forEach(row => {
+                    if (Array.isArray(row.setupTypes)) {
+                        row.setupTypes = row.setupTypes.filter(t => t !== typeToDelete);
+                    }
+                });
+                renderAvailableSetupTypesList(); // Re-render the list in the modal
+            }
+        });
+    }
+
+    // ---- Generic Confirmation Modal Logic -----------------------------------
+    function showConfirmModal(title, message, showCancel = true) {
+        confirmTitle.textContent = title;
+        confirmMessage.textContent = message;
+        confirmCancelBtn.style.display = showCancel ? 'inline-flex' : 'none'; 
+        confirmModal.classList.add('visible');
+
+        return new Promise(resolve => {
+            confirmResolve = resolve;
+        });
+    }
+
+    function closeConfirmModal(result) {
+        confirmModal.classList.remove('visible');
+        if (confirmResolve) {
+            confirmResolve(result);
+            confirmResolve = null; 
+        }
+    }
+
+    confirmOkBtn.addEventListener('click', () => closeConfirmModal(true));
+    confirmCancelBtn.addEventListener('click', () => closeConfirmModal(false));
+    closeConfirmModalBtn.addEventListener('click', () => closeConfirmModal(false)); 
+    confirmModal.addEventListener('click', (e) => { 
+        if (e.target === confirmModal) {
+            closeConfirmModal(false);
+        }
+    });
+
+
+    // ---- Charts Logic -------------------------------------------------------
+    $('#charts-panel .panel-header').addEventListener('click', () => {
+        $('#charts-panel').classList.toggle('collapsed');
+    });
+    
+    // Set Chart.js global defaults for dark theme
+    Chart.defaults.color = '#9aa5b3'; // --sub color
+    Chart.defaults.borderColor = 'rgba(154, 165, 179, 0.1)';
+
+
+    function renderCharts(list) {
+        if (list.length === 0) return;
+
+        // --- Equity Curve ---
+        let equity = 0;
+        const equityData = list.map(trade => {
+            if (trade.win) equity += (trade.rr || 0);
+            else if (trade.sl) equity -= 1; 
+            return equity;
+        });
+        
+        const ctxEquity = $('#equity-curve-chart').getContext('2d');
+        const gradient = ctxEquity.createLinearGradient(0, 0, 0, ctxEquity.canvas.clientHeight);
+        gradient.addColorStop(0, 'rgba(77, 212, 172, 0.5)');
+        gradient.addColorStop(1, 'rgba(77, 212, 172, 0)');
+
+        if (charts.equity) charts.equity.destroy();
+        charts.equity = new Chart(ctxEquity, {
+            type: 'line',
+            data: {
+                labels: list.map((t, i) => `Trade ${i + 1}`),
+                datasets: [{
+                    label: 'منحنی سود (R)',
+                    data: equityData,
+                    borderColor: 'rgba(77, 212, 172, 1)',
+                    backgroundColor: gradient,
+                    fill: true,
+                    tension: 0.4,
+                    pointBackgroundColor: 'rgba(77, 212, 172, 1)',
+                    pointRadius: 2,
+                    pointHoverRadius: 5
+                }]
+            },
+            options: { responsive: true, maintainAspectRatio: false }
+        });
+
+        // --- DOW Performance ---
+        const dowOrder = ['Mon', 'Tues', 'Wed', 'Thu', 'Fri'];
+        const dowData = dowOrder.map(day => {
+            return list.filter(t => t.dow === day).reduce((acc, trade) => {
+                if (trade.win) return acc + (trade.rr || 0);
+                if (trade.sl) return acc - 1;
+                return acc;
+            }, 0);
+        });
+        
+        if (charts.dow) charts.dow.destroy();
+        charts.dow = new Chart($('#dow-chart'), {
+            type: 'bar',
+            data: {
+                labels: dowOrder,
+                datasets: [{
+                    label: 'سود خالص (R) بر اساس روز',
+                    data: dowData,
+                    backgroundColor: dowData.map(d => d >= 0 ? 'rgba(77, 212, 172, 0.7)' : 'rgba(255, 107, 107, 0.7)'),
+                    borderRadius: 4,
+                    hoverBackgroundColor: dowData.map(d => d >= 0 ? 'rgba(77, 212, 172, 1)' : 'rgba(255, 107, 107, 1)')
+                }]
+            },
+            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } } } }
+        });
+
+        // --- Outcome Distribution ---
+        const outcomes = {
+            wins: list.filter(t => t.win).length,
+            losses: list.filter(t => t.sl).length,
+            rf: list.filter(t => t.rf).length
+        };
+
+        if (charts.outcome) charts.outcome.destroy();
+        charts.outcome = new Chart($('#outcome-chart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['برد', 'باخت', 'سر به سر'],
+                datasets: [{
+                    data: [outcomes.wins, outcomes.losses, outcomes.rf],
+                    backgroundColor: ['rgba(77, 212, 172, 0.8)', 'rgba(255, 107, 107, 0.8)', 'rgba(154, 165, 179, 0.8)'],
+                    borderColor: 'var(--panel)',
+                    hoverOffset: 8
+                }]
+            },
+            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'top' } } }
+        });
+    }
+
+
+    // ---- Initialization --------------------------------------------------------------
+    buildOptions();
+    render();
+
+  }); // End of DOMContentLoaded
