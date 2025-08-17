@@ -1,230 +1,259 @@
-<!doctype html>
-<html lang=en dir=ltr>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 <head>
-<meta charset=UTF-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<title>ICT SDP Back‑Test – Web App (Final Version)</title>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css>
-<script src=https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js></script>
-<script src=https://cdn.jsdelivr.net/npm/chart.js></script>
-<link rel=stylesheet href=styles.css>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ICT SDP Back‑Test – Web App (Final Version)</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class=wrap>
-<header>
-<h1>دفتر بک‌تست – ICT SDP</h1>
-<div class=toolbar>
-<button class="btn acc" id=addRow><i class="fas fa-plus"></i> ردیف جدید</button>
-<button class=btn id=exportCsv><i class="fas fa-file-csv"></i> خروجی CSV</button>
-<button class="btn ghost" id=importCsv><i class="fas fa-upload"></i> ورود CSV</button>
-<input type=file id=csvFile accept=.csv hidden>
-<button class="btn ghost" id=reset><i class="fas fa-undo"></i> بازنشانی</button>
-<button class="btn ghost" id=clearAll><i class="fas fa-trash-alt"></i> پاک کردن همه</button>
-<span id=save-status style=color:var(--sub);font-size:12px;align-self:center>آماده</span>
-</div>
-</header>
-<div class=panel>
-<div class=filters>
-<div class=field>
-<label>جستجو</label>
-<input id=search placeholder="تاریخ، منطقه، جهت، ...">
-</div>
-<div class=field>
-<label style=display:flex;justify-content:space-between;align-items:center>
-<span>نماد جفت ارز</span>
-<button class="btn ghost" id=manage-symbols-btn style="padding:4px 8px;font-size:11px"><i class="fas fa-cogs"></i> مدیریت</button>
-</label>
-<select id=f-symbol>
-<option value="">همه</option>
-</select>
-</div>
-<div class=field>
-<label style=display:flex;justify-content:space-between;align-items:center>
-<span>نوع تنظیمات (Setup Type)</span>
-<button class="btn ghost" id=manage-setup-types-btn style="padding:4px 8px;font-size:11px"><i class="fas fa-cogs"></i> مدیریت</button>
-</label>
-<div id=f-setup-type-chips class=setup-type-display-chips>
-</div>
-<input type=hidden id=f-setup-type-input>
-</div>
-<div class=field>
-<label>روز هفته</label>
-<select id=f-dow><option value="">همه</option></select>
-</div>
-<div class=field>
-<label>Killzone</label>
-<select id=f-kill><option value="">همه</option></select>
-</div>
-<div class=field>
-<label>وضعیت</label>
-<select id=f-status>
-<option value="">همه</option>
-<option value=win>Win</option>
-<option value=rf>R‑F</option>
-<option value=sl>SL</option>
-</select>
-</div>
-<div class=field>
-<label>گروه‌بندی</label>
-<label class=toggle-switch>
-<span>بر اساس هفته</span>
-<input type=checkbox id=group-by-week>
-<span class=slider></span>
-</label>
-</div>
-<button class="btn ghost" id=clearFilters><i class="fas fa-times"></i> پاک کردن فیلترها</button>
-</div>
-<div style="overflow:auto;border-top:1px solid #283146">
-<table id=grid>
-<thead>
-<tr>
-<th data-key=id class=center># <span class=arrow></span></th>
-<th data-key=symbol>نماد <span class=arrow></span></th>
-<th data-key=setupTypes>Setup Type <span class=arrow></span></th>
-<th data-key=date>تاریخ <span class=arrow></span></th>
-<th data-key=dow>DOW <span class=arrow></span></th>
-<th data-key=killzone>Killzone <span class=arrow></span></th>
-<th data-key=direction>جهت <span class=arrow></span></th>
-<th data-key=sdp>SDP Zone <span class=arrow></span></th>
-<th data-key=win class=center>Win <span class=arrow></span></th>
-<th data-key=rf class=center>R‑F <span class=arrow></span></th>
-<th data-key=sl class=center>SL <span class=arrow></span></th>
-<th data-key=rr class="num center">RR <span class=arrow></span></th>
-<th data-key=time class=center>زمان ورود <span class=arrow></span></th>
-<th class=center>عملیات</th>
-</tr>
-</thead>
-<tbody id=table-body>
-</tbody>
-<tfoot class=sticky-footer>
-<tr>
-<td colspan=14>
-<div class=stats id=stats></div>
-</td>
-</tr>
-</tfoot>
-</table>
-</div>
-<div class=legend>
-<span><span class=dot style=background:#123c2a></span>Long</span>
-<span><span class=dot style=background:#3c1a1a></span>Short</span>
-<span><span class=dot style=background:#1d3b2b></span>LDN</span>
-<span><span class=dot style=background:#1d2e3b></span>NY</span>
-<span><span class=dot style=background:#3a243b></span>LDN Close</span>
-<span><span class=dot style=background:#1d3b3a></span>SB LDN</span>
-<span><span class=dot style=background:#3b2e1d></span>SB NY</span>
-</div>
-</div>
-<div class="panel charts-container collapsed" id=charts-panel>
-<div class=panel-header>
-<h2><i class="fas fa-chart-line"></i> نمودارهای تحلیلی</h2>
-<i class="fas fa-chevron-down chevron"></i>
-</div>
-<div class=charts-grid>
-<div class=chart-box>
-<canvas id=equity-curve-chart></canvas>
-</div>
-<div style="display:grid;grid-template-rows:1fr 1fr;gap:16px">
-<div class=chart-box>
-<canvas id=dow-chart></canvas>
-</div>
-<div class=chart-box>
-<canvas id=outcome-chart></canvas>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class=modal-overlay id=comment-modal>
-<div class=modal-content>
-<div class=modal-header>
-<h2>یادداشت معامله</h2>
-<button class="btn ghost" id=close-comment-modal>&times;</button>
-</div>
-<textarea id=comment-textarea placeholder="تحلیل یا توضیحات خود را اینجا بنویسید..."></textarea>
-<div class=image-upload-section>
-<div class=image-preview-container id=image-preview-container>
-<img id=image-preview src=# alt="Image Preview" style=display:none>
-</div>
-<input type=file id=image-file-input accept=image/*>
-<div class=image-buttons>
-<button class="btn ghost" id=upload-image-btn><i class="fas fa-upload"></i> آپلود عکس</button>
-<button class="btn ghost" id=remove-image-btn style=display:none><i class="fas fa-trash-alt"></i> حذف عکس</button>
-</div>
-</div>
-<div class=modal-footer>
-<button class="btn ghost" id=cancel-comment>لغو</button>
-<button class="btn acc" id=save-comment>ذخیره</button>
-</div>
-</div>
-</div>
-<div class=modal-overlay id=manage-symbols-modal>
-<div class=modal-content>
-<div class=modal-header>
-<h2>مدیریت نمادهای جفت ارز</h2>
-<button class="btn ghost" id=close-manage-symbols-modal>&times;</button>
-</div>
-<div style=display:flex;gap:8px;margin-bottom:16px>
-<input id=new-symbol-input placeholder="مثال: XAUUSD" style=flex-grow:1>
-<button class="btn acc" id=add-symbol-btn><i class="fas fa-plus"></i> افزودن</button>
-</div>
-<div id=symbol-list-container>
-</div>
-<div class=modal-footer>
-<button class="btn ghost" id=done-managing-symbols>انجام شد</button>
-</div>
-</div>
-</div>
-<div class=modal-overlay id=setup-type-selection-modal>
-<div class=modal-content>
-<div class=modal-header>
-<h2>انتخاب نوع تنظیمات</h2>
-<button class="btn ghost" id=close-setup-type-selection-modal>&times;</button>
-</div>
-<div id=setup-type-checkbox-container>
-</div>
-<div class=modal-footer>
-<button class="btn ghost" id=cancel-setup-type-selection>لغو</button>
-<button class="btn acc" id=save-setup-type-selection>ذخیره</button>
-</div>
-</div>
-</div>
-<div class=modal-overlay id=manage-setup-types-modal>
-<div class=modal-content>
-<div class=modal-header>
-<h2>مدیریت انواع تنظیمات</h2>
-<button class="btn ghost" id=close-manage-setup-types-modal>&times;</button>
-</div>
-<div style=display:flex;gap:8px;margin-bottom:16px>
-<input id=new-setup-type-input placeholder="مثال: FVG" style=flex-grow:1>
-<button class="btn acc" id=add-new-setup-type-btn><i class="fas fa-plus"></i> افزودن</button>
-</div>
-<div id=available-setup-types-list>
-</div>
-<div class=modal-footer>
-<button class="btn ghost" id=done-managing-setup-types>انجام شد</button>
-</div>
-</div>
-</div>
-<div class=modal-overlay id=confirm-modal>
-<div class=modal-content>
-<div class=modal-header>
-<h2 id=confirm-title>تأیید</h2>
-<button class="btn ghost" id=close-confirm-modal>&times;</button>
-</div>
-<p id=confirm-message></p>
-<div class=modal-footer>
-<button class="btn ghost" id=confirm-cancel>لغو</button>
-<button class="btn acc" id=confirm-ok>تأیید</button>
-</div>
-</div>
-</div>
-<div class=modal-overlay id=image-zoom-modal>
-<div class=modal-content>
-<img id=zoomed-image src=# alt="Zoomed Image">
-<button class="btn ghost" id=image-zoom-close-btn>&times;</button>
-</div>
-</div>
-<script src=script.js></script>
+  <div class="wrap">
+    <header>
+      <h1>دفتر بک‌تست – ICT SDP</h1>
+      <div class="toolbar">
+        <button class="btn acc" id="addRow"><i class="fas fa-plus"></i> ردیف جدید</button>
+        <button class="btn" id="exportCsv"><i class="fas fa-file-csv"></i> خروجی CSV</button>
+        <button class="btn ghost" id="importCsv"><i class="fas fa-upload"></i> ورود CSV</button>
+        <input type="file" id="csvFile" accept=".csv" hidden />
+        <button class="btn ghost" id="reset"><i class="fas fa-undo"></i> بازنشانی</button>
+        <button class="btn ghost" id="clearAll"><i class="fas fa-trash-alt"></i> پاک کردن همه</button> <!-- New Clear All button -->
+        <span id="save-status" style="color: var(--sub); font-size: 12px; align-self: center;">آماده</span>
+      </div>
+    </header>
+
+    <div class="panel">
+      <div class="filters">
+        <div class="field">
+          <label>جستجو</label>
+          <input id="search" type="text" placeholder="تاریخ، منطقه، جهت، ..." />
+        </div>
+        <div class="field">
+          <label style="display: flex; justify-content: space-between; align-items: center;">
+            <span>نماد جفت ارز</span>
+            <button class="btn ghost" id="manage-symbols-btn" style="padding: 4px 8px; font-size: 11px;"><i class="fas fa-cogs"></i> مدیریت</button>
+          </label>
+          <select id="f-symbol">
+            <option value="">همه</option>
+          </select>
+        </div>
+        <div class="field">
+          <label style="display: flex; justify-content: space-between; align-items: center;">
+            <span>نوع تنظیمات (Setup Type)</span>
+            <button class="btn ghost" id="manage-setup-types-btn" style="padding: 4px 8px; font-size: 11px;"><i class="fas fa-cogs"></i> مدیریت</button>
+          </label>
+          <div id="f-setup-type-chips" class="setup-type-display-chips">
+              <!-- Filter chips will be injected here -->
+          </div>
+          <input type="hidden" id="f-setup-type-input" value="" />
+        </div>
+        <div class="field">
+          <label>روز هفته</label>
+          <select id="f-dow"><option value="">همه</option></select>
+        </div>
+        <div class="field">
+          <label>Killzone</label>
+          <select id="f-kill"><option value="">همه</option></select>
+        </div>
+        <div class="field">
+          <label>وضعیت</label>
+          <select id="f-status">
+            <option value="">همه</option>
+            <option value="win">Win</option>
+            <option value="rf">R‑F</option>
+            <option value="sl">SL</option>
+          </select>
+        </div>
+        <div class="field">
+            <label>گروه‌بندی</label>
+            <label class="toggle-switch">
+                <span>بر اساس هفته</span>
+                <input type="checkbox" id="group-by-week">
+                <span class="slider"></span>
+            </label>
+        </div>
+        <button class="btn ghost" id="clearFilters"><i class="fas fa-times"></i> پاک کردن فیلترها</button>
+      </div>
+
+      <div style="overflow:auto;border-top:1px solid #283146">
+        <table id="grid">
+          <thead>
+            <tr>
+              <th data-key="id" class="center"># <span class="arrow"></span></th>
+              <th data-key="symbol">نماد <span class="arrow"></span></th>
+              <th data-key="setupTypes">Setup Type <span class="arrow"></span></th> <!-- New column -->
+              <th data-key="date">تاریخ <span class="arrow"></span></th>
+              <th data-key="dow">DOW <span class="arrow"></span></th>
+              <th data-key="killzone">Killzone <span class="arrow"></span></th>
+              <th data-key="direction">جهت <span class="arrow"></span></th>
+              <th data-key="sdp">SDP Zone <span class="arrow"></span></th>
+              <th data-key="win" class="center">Win <span class="arrow"></span></th>
+              <th data-key="rf" class="center">R‑F <span class="arrow"></span></th>
+              <th data-key="sl" class="center">SL <span class="arrow"></span></th>
+              <th data-key="rr" class="num center">RR <span class="arrow"></span></th>
+              <th data-key="time" class="center">زمان ورود <span class="arrow"></span></th>
+              <th class="center">عملیات</th>
+            </tr>
+          </thead>
+          <tbody id="table-body">
+              <!-- Rows will be injected here -->
+          </tbody>
+          <tfoot class="sticky-footer">
+            <tr>
+              <td colspan="14"> <!-- Updated colspan to 14 -->
+                <div class="stats" id="stats"></div>
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+      </div>
+
+      <div class="legend">
+        <span><span class="dot" style="background:#123c2a"></span>Long</span>
+        <span><span class="dot" style="background:#3c1a1a"></span>Short</span>
+        <span><span class="dot" style="background:#1d3b2b"></span>LDN</span>
+        <span><span class="dot" style="background:#1d2e3b"></span>NY</span>
+        <span><span class="dot" style="background:#3a243b"></span>LDN Close</span>
+        <span><span class="dot" style="background:#1d3b3a"></span>SB LDN</span>
+        <span><span class="dot" style="background:#3b2e1d"></span>SB NY</span>
+      </div>
+    </div>
+
+    <!-- Charts Section -->
+    <div class="panel charts-container collapsed" id="charts-panel">
+        <div class="panel-header">
+            <h2><i class="fas fa-chart-line"></i> نمودارهای تحلیلی</h2>
+            <i class="fas fa-chevron-down chevron"></i>
+        </div>
+        <div class="charts-grid">
+            <div class="chart-box">
+                <canvas id="equity-curve-chart"></canvas>
+            </div>
+            <div style="display: grid; grid-template-rows: 1fr 1fr; gap: 16px;">
+                <div class="chart-box">
+                    <canvas id="dow-chart"></canvas>
+                </div>
+                <div class="chart-box">
+                    <canvas id="outcome-chart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  </div>
+
+  <!-- Comment Modal -->
+  <div class="modal-overlay" id="comment-modal">
+      <div class="modal-content">
+          <div class="modal-header">
+              <h2>یادداشت معامله</h2>
+              <button class="btn ghost" id="close-comment-modal">&times;</button>
+          </div>
+          <textarea id="comment-textarea" placeholder="تحلیل یا توضیحات خود را اینجا بنویسید..."></textarea>
+          
+          <!-- New: Image attachment section -->
+          <div class="image-upload-section">
+              <div class="image-preview-container" id="image-preview-container">
+                  <img id="image-preview" src="#" alt="Image Preview" style="display: none;">
+              </div>
+              <input type="file" id="image-file-input" accept="image/*">
+              <div class="image-buttons">
+                  <button class="btn ghost" id="upload-image-btn"><i class="fas fa-upload"></i> آپلود عکس</button>
+                  <button class="btn ghost" id="remove-image-btn" style="display: none;"><i class="fas fa-trash-alt"></i> حذف عکس</button>
+              </div>
+          </div>
+          <!-- End new image attachment section -->
+
+          <div class="modal-footer">
+              <button class="btn ghost" id="cancel-comment">لغو</button>
+              <button class="btn acc" id="save-comment">ذخیره</button>
+          </div>
+      </div>
+  </div>
+
+  <!-- Manage Symbols Modal -->
+  <div class="modal-overlay" id="manage-symbols-modal">
+      <div class="modal-content">
+          <div class="modal-header">
+              <h2>مدیریت نمادهای جفت ارز</h2>
+              <button class="btn ghost" id="close-manage-symbols-modal">&times;</button>
+          </div>
+          <div style="display: flex; gap: 8px; margin-bottom: 16px;">
+            <input type="text" id="new-symbol-input" placeholder="مثال: XAUUSD" style="flex-grow: 1;" />
+            <button class="btn acc" id="add-symbol-btn"><i class="fas fa-plus"></i> افزودن</button>
+          </div>
+          <div id="symbol-list-container">
+              <!-- Symbols will be injected here -->
+          </div>
+          <div class="modal-footer">
+              <button class="btn ghost" id="done-managing-symbols">انجام شد</button>
+          </div>
+      </div>
+  </div>
+
+  <!-- Setup Type Selection Modal (for editing a trade's setup types) -->
+  <div class="modal-overlay" id="setup-type-selection-modal">
+      <div class="modal-content">
+          <div class="modal-header">
+              <h2>انتخاب نوع تنظیمات</h2>
+              <button class="btn ghost" id="close-setup-type-selection-modal">&times;</button>
+          </div>
+          <div id="setup-type-checkbox-container">
+              <!-- Checkboxes for setup types will be injected here -->
+          </div>
+          <div class="modal-footer">
+              <button class="btn ghost" id="cancel-setup-type-selection">لغو</button>
+              <button class="btn acc" id="save-setup-type-selection">ذخیره</button>
+          </div>
+      </div>
+  </div>
+
+  <!-- Manage Setup Types Modal (for adding/removing available setup types) -->
+  <div class="modal-overlay" id="manage-setup-types-modal">
+      <div class="modal-content">
+          <div class="modal-header">
+              <h2>مدیریت انواع تنظیمات</h2>
+              <button class="btn ghost" id="close-manage-setup-types-modal">&times;</button>
+          </div>
+          <div style="display: flex; gap: 8px; margin-bottom: 16px;">
+            <input type="text" id="new-setup-type-input" placeholder="مثال: FVG" style="flex-grow: 1;" />
+            <button class="btn acc" id="add-new-setup-type-btn"><i class="fas fa-plus"></i> افزودن</button>
+          </div>
+          <div id="available-setup-types-list">
+              <!-- Available setup types will be injected here -->
+          </div>
+          <div class="modal-footer">
+              <button class="btn ghost" id="done-managing-setup-types">انجام شد</button>
+          </div>
+      </div>
+  </div>
+
+  <!-- Generic Confirmation Modal -->
+  <div class="modal-overlay" id="confirm-modal">
+      <div class="modal-content">
+          <div class="modal-header">
+              <h2 id="confirm-title">تأیید</h2>
+              <button class="btn ghost" id="close-confirm-modal">&times;</button>
+          </div>
+          <p id="confirm-message"></p>
+          <div class="modal-footer">
+              <button class="btn ghost" id="confirm-cancel">لغو</button>
+              <button class="btn acc" id="confirm-ok">تأیید</button>
+          </div>
+      </div>
+  </div>
+
+  <!-- New: Image Zoom Modal -->
+  <div class="modal-overlay" id="image-zoom-modal">
+      <div class="modal-content">
+          <img id="zoomed-image" src="#" alt="Zoomed Image">
+          <button class="btn ghost" id="image-zoom-close-btn">&times;</button>
+      </div>
+  </div>
+  <!-- End New: Image Zoom Modal -->
+
+  <script src="script.js"></script>
 </body>
 </html>
